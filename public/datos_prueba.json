@@ -1,1521 +1,1522 @@
 [
         {
-            "name": "CAE 214/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación de la Explotación del Bar-Cafetería del Centro de Participación Activa para Personas Mayores de Las Chapas en Marbella",
-            "status": "Publicada",
-            "importe": "8,883.04",
-            "fecha": "31/08/2022"
-        },
-        {
-            "name": "CP 272/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del Servicio de Organización, Gestión y Producción de Actividades Artísticas con motivo del IV Centenario de la Beatificación de San Pedro de Alcántara y El Hermanamiento Institucional con el Municipio de Arenas de San Pedro 2022",
-            "status": "Evaluación",
-            "importe": "27,592.01",
-            "fecha": "22/08/2022"
-        },
-        {
-            "name": "SE 5/23",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de impresión de material de papelería institucional y sobres para el Excmo. Ayto. de Marbella.",
-            "status": "Evaluación",
-            "importe": "23,966.94",
-            "fecha": "26/08/2022"
-        },
-        {
-            "name": "D SE 133/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de reparaciones de mecánica, mantenimiento y suministro de repuestos de los vehículos autobuses utilizados para el transporte en el Excmo. Ayuntamiento de Marbella",
-            "status": "Evaluación",
-            "importe": "62,000.00",
-            "fecha": "26/08/2022"
-        },
-        {
-            "name": "SE 260/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicios y suministros necesarios para la organización y producción de los eventos desarrollados con motivo de la Feria y Fiestas de San Pedro Alcántara",
-            "status": "Evaluación",
-            "importe": "38,380.00",
-            "fecha": "23/08/2022"
-        },
-        {
-            "name": "D SE 225/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio para el uso de la marca Q de Calidad y S de Sostenibilidad otorgada por el Instituto para la Calidad Turística Española a las playas y senderos del término municipal de Marbella",
-            "status": "Evaluación",
-            "importe": "8,516.95",
-            "fecha": "16/08/2022"
-        },
-        {
-            "name": "SE 271/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Recuperación de datos de cabina de almacenamiento dañada por incidentes en el suministro eléctrico de la Delegación de Nuevas Tecnologías",
-            "status": "Resuelta",
-            "importe": "10,912.50",
-            "fecha": "02/08/2022"
-        },
-        {
-            "name": "SE 273/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Reparación de avería de la maquinaria de aire acondicionado de la oficina del S.A.T.E en Pto. Banus T.M. de Marbella (Málaga)",
-            "status": "Resuelta",
-            "importe": "717.85",
-            "fecha": "02/08/2022"
-        },
-        {
-            "name": "SU 185/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de vestuario con destino a la plantilla de la Policía Local de Marbella.",
-            "status": "Publicada",
-            "importe": "566,115.72",
-            "fecha": "01/09/2022"
-        },
-        {
-            "name": "SU 253/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación por cuenta abierta del suministro consistente en el alquiler del escenario, equipos de sonido e iluminación, montaje, desmontaje, asistencia técnica y transporte necesarios para los eventos que organiza la Concejalía de Extranjeros Residentes del Ayuntamiento de Marbella",
-            "status": "Evaluación",
-            "importe": "26,776.84",
-            "fecha": "10/08/2022"
-        },
-        {
-            "name": "SE 215/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio de Sistema de gestión de incidencias para la Delegación de Innovación y Nuevas Tecnologías del Excmo. Ayuntamiento de Marbella",
-            "status": "Evaluación",
-            "importe": "64,000.00",
-            "fecha": "28/07/2022"
-        },
-        {
-            "name": "OB 199/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de las obras: Espacio Sociodeportivo en el Distrito de Nueva Andalucía. T.M. Marbella (Málaga)",
-            "status": "Evaluación",
-            "importe": "238,635.33",
-            "fecha": "08/08/2022"
-        },
-        {
-            "name": "CP 239/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del Patrocinio Publicitario para la promoción turística de la ciudad de Marbella mediante la celebración del Festival Starlite Catalana Occidente año 2022.",
-            "status": "Adjudicada",
-            "importe": "150,000.00",
-            "fecha": "12/08/2022"
+                "fecha": "31/08/2022",
+                "importe": "8,883.04",
+                "name": "CAE 214/22",
+                "objetivo_contrato": "Contratación de la Explotación del Bar-Cafetería del Centro de Participación Activa para Personas Mayores de Las Chapas en Marbella",
+                "status": "Publicada",
+                "tipo": "Administrativo especial"
+        },
+        {
+                "fecha": "22/08/2022",
+                "importe": "27,592.01",
+                "name": "CP 272/22",
+                "objetivo_contrato": "Contratación del Servicio de Organización, Gestión y Producción de Actividades Artísticas con motivo del IV Centenario de la Beatificación de San Pedro de Alcántara y El Hermanamiento Institucional con el Municipio de Arenas de San Pedro 2022",
+                "status": "Evaluación",
+                "tipo": "Privado"
+        },
+        {
+                "fecha": "26/08/2022",
+                "importe": "23,966.94",
+                "name": "SE 5/23",
+                "objetivo_contrato": "Servicio de impresión de material de papelería institucional y sobres para el Excmo. Ayto. de Marbella.",
+                "status": "Evaluación",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "26/08/2022",
+                "importe": "62,000.00",
+                "name": "D SE 133/22",
+                "objetivo_contrato": "Servicio de reparaciones de mecánica, mantenimiento y suministro de repuestos de los vehículos autobuses utilizados para el transporte en el Excmo. Ayuntamiento de Marbella",
+                "status": "Evaluación",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "23/08/2022",
+                "importe": "38,380.00",
+                "name": "SE 260/22",
+                "objetivo_contrato": "Servicios y suministros necesarios para la organización y producción de los eventos desarrollados con motivo de la Feria y Fiestas de San Pedro Alcántara",
+                "status": "Evaluación",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "16/08/2022",
+                "importe": "8,516.95",
+                "name": "D SE 225/22",
+                "objetivo_contrato": "Servicio para el uso de la marca Q de Calidad y S de Sostenibilidad otorgada por el Instituto para la Calidad Turística Española a las playas y senderos del término municipal de Marbella",
+                "status": "Evaluación",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "02/08/2022",
+                "importe": "10,912.50",
+                "name": "SE 271/22",
+                "objetivo_contrato": "Recuperación de datos de cabina de almacenamiento dañada por incidentes en el suministro eléctrico de la Delegación de Nuevas Tecnologías",
+                "status": "Resuelta",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "02/08/2022",
+                "importe": "717.85",
+                "name": "SE 273/22",
+                "objetivo_contrato": "Reparación de avería de la maquinaria de aire acondicionado de la oficina del S.A.T.E en Pto. Banus T.M. de Marbella (Málaga)",
+                "status": "Resuelta",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "01/09/2022",
+                "importe": "566,115.72",
+                "name": "SU 185/22",
+                "objetivo_contrato": "Suministro de vestuario con destino a la plantilla de la Policía Local de Marbella.",
+                "status": "Publicada",
+                "tipo": "Suministros"
+        },
+        {
+                "fecha": "10/08/2022",
+                "importe": "26,776.84",
+                "name": "SU 253/22",
+                "objetivo_contrato": "Contratación por cuenta abierta del suministro consistente en el alquiler del escenario, equipos de sonido e iluminación, montaje, desmontaje, asistencia técnica y transporte necesarios para los eventos que organiza la Concejalía de Extranjeros Residentes del Ayuntamiento de Marbella",
+                "status": "Evaluación",
+                "tipo": "Suministros"
+        },
+        {
+                "fecha": "28/07/2022",
+                "importe": "64,000.00",
+                "name": "SE 215/22",
+                "objetivo_contrato": "Contratación del Servicio de Sistema de gestión de incidencias para la Delegación de Innovación y Nuevas Tecnologías del Excmo. Ayuntamiento de Marbella",
+                "status": "Evaluación",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "08/08/2022",
+                "importe": "238,635.33",
+                "name": "OB 199/22",
+                "objetivo_contrato": "Contratación de las obras: Espacio Sociodeportivo en el Distrito de Nueva Andalucía. T.M. Marbella (Málaga)",
+                "status": "Evaluación",
+                "tipo": "Obras"
+        },
+        {
+                "fecha": "12/08/2022",
+                "importe": "150,000.00",
+                "name": "CP 239/22",
+                "objetivo_contrato": "Contratación del Patrocinio Publicitario para la promoción turística de la ciudad de Marbella mediante la celebración del Festival Starlite Catalana Occidente año 2022.",
+                "status": "Adjudicada",
+                "tipo": "Privado"
         },
         {
-            "name": "CP 255/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del Patrocinio Publicitario para la Promoción Turística y Deportiva de la Ciudad de Marbella en la Copa del Mundo U17 Masculino de Balonceto",
-            "status": "Resuelta",
-            "importe": "30,000.00",
-            "fecha": "02/08/2022"
+                "fecha": "02/08/2022",
+                "importe": "30,000.00",
+                "name": "CP 255/22",
+                "objetivo_contrato": "Contratación del Patrocinio Publicitario para la Promoción Turística y Deportiva de la Ciudad de Marbella en la Copa del Mundo U17 Masculino de Balonceto",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 251/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de mantenimiento y soporte técnico del sistema de información territorial de Marbella (SITMA)",
-            "status": "Evaluación",
-            "importe": "259,500.00",
-            "fecha": "05/08/2022"
+                "fecha": "05/08/2022",
+                "importe": "259,500.00",
+                "name": "SE 251/22",
+                "objetivo_contrato": "Servicio de mantenimiento y soporte técnico del sistema de información territorial de Marbella (SITMA)",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 133/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de reparaciones de mecánica, mantenimiento y suministro de repuestos de los vehículos autobuses utilizados para el transporte en el Excmo. Ayuntamiento de Marbella",
-            "status": "Resuelta",
-            "importe": "62,000.00",
-            "fecha": "11/08/2022"
+                "fecha": "11/08/2022",
+                "importe": "62,000.00",
+                "name": "SE 133/22",
+                "objetivo_contrato": "Servicio de reparaciones de mecánica, mantenimiento y suministro de repuestos de los vehículos autobuses utilizados para el transporte en el Excmo. Ayuntamiento de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "CAE 220/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación de la explotación del Bar-Cafetería del Centro de Participación Activa para Personas Mayores de San Pedro I.",
-            "status": "Evaluación",
-            "importe": "17,181.28",
-            "fecha": "18/07/2022"
+                "fecha": "18/07/2022",
+                "importe": "17,181.28",
+                "name": "CAE 220/22",
+                "objetivo_contrato": "Contratación de la explotación del Bar-Cafetería del Centro de Participación Activa para Personas Mayores de San Pedro I.",
+                "status": "Evaluación",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "SE 225/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio para el uso de la marca Q de Calidad y S de Sostenibilidad otorgada por el Instituto para la Calidad Turística Española a las playas y senderos del término municipal de Marbella",
-            "status": "Resuelta",
-            "importe": "8,516.95",
-            "fecha": "03/08/2022"
+                "fecha": "03/08/2022",
+                "importe": "8,516.95",
+                "name": "SE 225/22",
+                "objetivo_contrato": "Servicio para el uso de la marca Q de Calidad y S de Sostenibilidad otorgada por el Instituto para la Calidad Turística Española a las playas y senderos del término municipal de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 240/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio por cuenta abierta de recogida, manipulación, entrega de cartas postales y notificaciones y de la ordenación y retorno de información de los justificantes de recepción del Excmo. Ayuntamiento de Marbella.",
-            "status": "Evaluación",
-            "importe": "54,545.45",
-            "fecha": "19/07/2022"
+                "fecha": "19/07/2022",
+                "importe": "54,545.45",
+                "name": "SE 240/22",
+                "objetivo_contrato": "Servicio por cuenta abierta de recogida, manipulación, entrega de cartas postales y notificaciones y de la ordenación y retorno de información de los justificantes de recepción del Excmo. Ayuntamiento de Marbella.",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "OB 197/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de las obras: \"Piscina municipal al aire libre y cerramiento para instalaciones deportivas en sector SG-E-44. Las Chapas T.M. Marbella (Málaga)\".",
-            "status": "Evaluación",
-            "importe": "1,037,284.95",
-            "fecha": "27/07/2022"
+                "fecha": "27/07/2022",
+                "importe": "1,037,284.95",
+                "name": "OB 197/22",
+                "objetivo_contrato": "Contratación de las obras: \"Piscina municipal al aire libre y cerramiento para instalaciones deportivas en sector SG-E-44. Las Chapas T.M. Marbella (Málaga)\".",
+                "status": "Evaluación",
+                "tipo": "Obras"
         },
         {
-            "name": "D SE 109/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de transporte mediante autobuses y minibuses para las actividades y excursiones que organice o en las que colabore la Delegación de Cultura, Enseñanza y Patrimonio Histórico.",
-            "status": "Resuelta",
-            "importe": "49,050.00",
-            "fecha": "10/08/2022"
+                "fecha": "10/08/2022",
+                "importe": "49,050.00",
+                "name": "D SE 109/22",
+                "objetivo_contrato": "Servicio de transporte mediante autobuses y minibuses para las actividades y excursiones que organice o en las que colabore la Delegación de Cultura, Enseñanza y Patrimonio Histórico.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 213/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación por cuenta abierta del Suministro de Trajes de Flamenca y Diversos Accesorios Relacionados con las Reinas y Damas de las Ferias y Fiestas Organizadas por el Distrito San Pedro Alcántara",
-            "status": "Adjudicada",
-            "importe": "23,289.00",
-            "fecha": "25/08/2022"
+                "fecha": "25/08/2022",
+                "importe": "23,289.00",
+                "name": "SU 213/22",
+                "objetivo_contrato": "Contratación por cuenta abierta del Suministro de Trajes de Flamenca y Diversos Accesorios Relacionados con las Reinas y Damas de las Ferias y Fiestas Organizadas por el Distrito San Pedro Alcántara",
+                "status": "Adjudicada",
+                "tipo": "Suministros"
         },
         {
-            "name": "CP 226/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación de las pólizas de seguro de vehículos a motor del Excmo. Ayuntamiento de Marbella.",
-            "status": "Evaluación",
-            "importe": "500,000.00",
-            "fecha": "25/07/2022"
+                "fecha": "25/07/2022",
+                "importe": "500,000.00",
+                "name": "CP 226/22",
+                "objetivo_contrato": "Contratación de las pólizas de seguro de vehículos a motor del Excmo. Ayuntamiento de Marbella.",
+                "status": "Evaluación",
+                "tipo": "Privado"
         },
         {
-            "name": "D CAE 75/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación del Servicio de Ventas por Máquinas Automáticas (vending) de Bebidas y Alimentos para cubrir las necesidades de los usuarios de las distinta dependendias",
-            "status": "Resuelta",
-            "importe": "21,338.25",
-            "fecha": "27/07/2022"
+                "fecha": "27/07/2022",
+                "importe": "21,338.25",
+                "name": "D CAE 75/22",
+                "objetivo_contrato": "Contratación del Servicio de Ventas por Máquinas Automáticas (vending) de Bebidas y Alimentos para cubrir las necesidades de los usuarios de las distinta dependendias",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "D SE 190/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del servicio de mantenimiento de la aplicación informática PATROS para la gestión de inventario del Ayuntamiento de Marbella",
-            "status": "Resuelta",
-            "importe": "5,200.00",
-            "fecha": "04/08/2022"
+                "fecha": "04/08/2022",
+                "importe": "5,200.00",
+                "name": "D SE 190/22",
+                "objetivo_contrato": "Contratación del servicio de mantenimiento de la aplicación informática PATROS para la gestión de inventario del Ayuntamiento de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 153/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de vestuario para el personal del Servicio de Prevención, Extinción de Incendios y Salvamentos del Ecxmo. Ayuntamiento de Marbella para el ejercicio 2022.",
-            "status": "Evaluación",
-            "importe": "98,974.25",
-            "fecha": "07/07/2022"
+                "fecha": "07/07/2022",
+                "importe": "98,974.25",
+                "name": "SU 153/22",
+                "objetivo_contrato": "Suministro de vestuario para el personal del Servicio de Prevención, Extinción de Incendios y Salvamentos del Ecxmo. Ayuntamiento de Marbella para el ejercicio 2022.",
+                "status": "Evaluación",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 1/23",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio por cuenta abierta de tintorería para el lavado de mantas del Arresto Municipal de Marbella.",
-            "status": "Resuelta",
-            "importe": "12,727.28",
-            "fecha": "15/07/2022"
+                "fecha": "15/07/2022",
+                "importe": "12,727.28",
+                "name": "SE 1/23",
+                "objetivo_contrato": "Servicio por cuenta abierta de tintorería para el lavado de mantas del Arresto Municipal de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "D OB 118/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de las obras de Construcción de nuevo edificio para el futuro Centro Salud de Las Chapas en Calle La Hacienda (SG-E-44). T.M. Marbella (Málaga)",
-            "status": "Evaluación",
-            "importe": "694,228.15",
-            "fecha": "18/07/2022"
+                "fecha": "18/07/2022",
+                "importe": "694,228.15",
+                "name": "D OB 118/22",
+                "objetivo_contrato": "Contratación de las obras de Construcción de nuevo edificio para el futuro Centro Salud de Las Chapas en Calle La Hacienda (SG-E-44). T.M. Marbella (Málaga)",
+                "status": "Evaluación",
+                "tipo": "Obras"
         },
         {
-            "name": "SE 210/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio de Organización, Gestión y Realización de Actividades de Verano \"Verano Joven\"",
-            "status": "Adjudicada",
-            "importe": "44,184.91",
-            "fecha": "05/08/2022"
+                "fecha": "05/08/2022",
+                "importe": "44,184.91",
+                "name": "SE 210/22",
+                "objetivo_contrato": "Contratación del Servicio de Organización, Gestión y Realización de Actividades de Verano \"Verano Joven\"",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 184/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Suministro de 1200 pruebas ( 48 Kits indiciarios de 25 unidades) para la detección de drogas en saliva y el servicio de laboratorio clínico para la realización de hasta 600 pruebas confirmatorias de la presencia de drogas en conductores y otros usuario en muestras de fluido oral para la Policía Local de Marbella.",
-            "status": "Evaluación",
-            "importe": "77,334.00",
-            "fecha": "28/06/2022"
+                "fecha": "28/06/2022",
+                "importe": "77,334.00",
+                "name": "SE 184/22",
+                "objetivo_contrato": "Suministro de 1200 pruebas ( 48 Kits indiciarios de 25 unidades) para la detección de drogas en saliva y el servicio de laboratorio clínico para la realización de hasta 600 pruebas confirmatorias de la presencia de drogas en conductores y otros usuario en muestras de fluido oral para la Policía Local de Marbella.",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 188/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de veterinario para el escuadrón de caballería de la Policía Local de Marbella.",
-            "status": "Adjudicada",
-            "importe": "14,876.03",
-            "fecha": "22/08/2022"
+                "fecha": "22/08/2022",
+                "importe": "14,876.03",
+                "name": "SE 188/22",
+                "objetivo_contrato": "Servicio de veterinario para el escuadrón de caballería de la Policía Local de Marbella.",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "OB 236/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Obras de demolición y reposición de muro de cerramiento oeste en finca \"La Caridad\" San Pedro Alcántara, T.M. Marbella (Málaga)",
-            "status": "Resuelta",
-            "importe": "156,452.57",
-            "fecha": "07/06/2022"
+                "fecha": "07/06/2022",
+                "importe": "156,452.57",
+                "name": "OB 236/22",
+                "objetivo_contrato": "Obras de demolición y reposición de muro de cerramiento oeste en finca \"La Caridad\" San Pedro Alcántara, T.M. Marbella (Málaga)",
+                "status": "Resuelta",
+                "tipo": "Obras"
         },
         {
-            "name": "OB 216/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de las obras: \"Obras de consolidación del Castillo de Marbella (Málaga)\".",
-            "status": "Evaluación",
-            "importe": "430,285.22",
-            "fecha": "04/07/2022"
+                "fecha": "04/07/2022",
+                "importe": "430,285.22",
+                "name": "OB 216/22",
+                "objetivo_contrato": "Contratación de las obras: \"Obras de consolidación del Castillo de Marbella (Málaga)\".",
+                "status": "Evaluación",
+                "tipo": "Obras"
         },
         {
-            "name": "CP 235/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contrato privado de servicio de organización, gestión y producción de las actuaciones artísticas con motivo de la Feria de Dia y Feria de Noche de San Bernabé 2022 de Marbella.",
-            "status": "Resuelta",
-            "importe": "201,613.98",
-            "fecha": "20/06/2022"
+                "fecha": "20/06/2022",
+                "importe": "201,613.98",
+                "name": "CP 235/22",
+                "objetivo_contrato": "Contrato privado de servicio de organización, gestión y producción de las actuaciones artísticas con motivo de la Feria de Dia y Feria de Noche de San Bernabé 2022 de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SU 217/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de uniformidad para el Servicio de Protección Civil del Excmo. Ayuntamiento de Marbella.",
-            "status": "Adjudicada",
-            "importe": "16,528.93",
-            "fecha": "23/08/2022"
+                "fecha": "23/08/2022",
+                "importe": "16,528.93",
+                "name": "SU 217/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de uniformidad para el Servicio de Protección Civil del Excmo. Ayuntamiento de Marbella.",
+                "status": "Adjudicada",
+                "tipo": "Suministros"
         },
         {
-            "name": "PAT 232/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las Atracciones Mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
-            "status": "Resuelta",
-            "importe": "1,319.01",
-            "fecha": "15/06/2022"
+                "fecha": "15/06/2022",
+                "importe": "1,319.01",
+                "name": "PAT 232/22",
+                "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las Atracciones Mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "PAT 234/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las atracciones mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
-            "status": "Resuelta",
-            "importe": "73.92",
-            "fecha": "29/07/2022"
+                "fecha": "29/07/2022",
+                "importe": "73.92",
+                "name": "PAT 234/22",
+                "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las atracciones mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "PAT 233/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las Atracciones Mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
-            "status": "Parcialmente Resuelta",
-            "importe": "1,157.31",
-            "fecha": "09/06/2022"
+                "fecha": "09/06/2022",
+                "importe": "1,157.31",
+                "name": "PAT 233/22",
+                "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las Atracciones Mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
+                "status": "Parcialmente Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "PAT 230/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las Atracciones Mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
-            "status": "Parcialmente Adjudicada",
-            "importe": "4,048.28",
-            "fecha": "08/06/2022"
+                "fecha": "08/06/2022",
+                "importe": "4,048.28",
+                "name": "PAT 230/22",
+                "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las Atracciones Mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
+                "status": "Parcialmente Adjudicada",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "PAT 231/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las atracciones mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
-            "status": "Parcialmente Resuelta",
-            "importe": "425.04",
-            "fecha": "10/06/2022"
+                "fecha": "10/06/2022",
+                "importe": "425.04",
+                "name": "PAT 231/22",
+                "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las atracciones mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
+                "status": "Parcialmente Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "SE 154/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicios de mensajería y paquetería con ámbito provincial, nacional e internacional del Excmo. Ayuntamiento de Marbella.",
-            "status": "Evaluación",
-            "importe": "5,950.41",
-            "fecha": "10/06/2022"
+                "fecha": "10/06/2022",
+                "importe": "5,950.41",
+                "name": "SE 154/22",
+                "objetivo_contrato": "Servicios de mensajería y paquetería con ámbito provincial, nacional e internacional del Excmo. Ayuntamiento de Marbella.",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 218/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de emergencia de las actuaciones necesarias en los Paseos Marítimos y sus accesos por el temporal de levante del pasado marzo y abril de 2022 de la Delegación de Medio Ambiente y playas: maquinaria para trabajos de playa",
-            "status": "Resuelta",
-            "importe": "25,150.00",
-            "fecha": "27/05/2022"
+                "fecha": "27/05/2022",
+                "importe": "25,150.00",
+                "name": "SE 218/22",
+                "objetivo_contrato": "Servicio de emergencia de las actuaciones necesarias en los Paseos Marítimos y sus accesos por el temporal de levante del pasado marzo y abril de 2022 de la Delegación de Medio Ambiente y playas: maquinaria para trabajos de playa",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "PAT 229/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las Atracciones Mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
-            "status": "Resuelta",
-            "importe": "7,353.31",
-            "fecha": "15/06/2022"
+                "fecha": "15/06/2022",
+                "importe": "7,353.31",
+                "name": "PAT 229/22",
+                "objetivo_contrato": "Autorización de uso común especial sobre los terrenos destinados a la instalación de las Atracciones Mecánicas y actividades feriales con motivo de la Feria y Fiestas de San Bernabé a celebrar del 7 al 12 de junio de 2022.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "CP 170/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación de la póliza de seguro colectivo para garantizar las consecuencias de los riesgos derivados del desarrollo de actividades de voluntariado deportivo y de la practica de las actividades organizadas por la Delegación de Deportes del Excmo. Ayuntamiento de Marbella.",
-            "status": "Evaluación",
-            "importe": "120,000.00",
-            "fecha": "27/06/2022"
+                "fecha": "27/06/2022",
+                "importe": "120,000.00",
+                "name": "CP 170/22",
+                "objetivo_contrato": "Contratación de la póliza de seguro colectivo para garantizar las consecuencias de los riesgos derivados del desarrollo de actividades de voluntariado deportivo y de la practica de las actividades organizadas por la Delegación de Deportes del Excmo. Ayuntamiento de Marbella.",
+                "status": "Evaluación",
+                "tipo": "Privado"
         },
         {
-            "name": "DD SU 34/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de material vegetal y de vivero para la Delegación de Parques y Jardines.",
-            "status": "Adjudicada",
-            "importe": "462,727.27",
-            "fecha": "25/08/2022"
+                "fecha": "25/08/2022",
+                "importe": "462,727.27",
+                "name": "DD SU 34/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de material vegetal y de vivero para la Delegación de Parques y Jardines.",
+                "status": "Adjudicada",
+                "tipo": "Suministros"
         },
         {
-            "name": "PAT 219/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Bases reguladoras de la autorización para la instalación y uso de barras de la Feria y Fiestas de San Bernabé 2022.",
-            "status": "Parcialmente Resuelta",
-            "importe": "8,920.80",
-            "fecha": "03/06/2022"
+                "fecha": "03/06/2022",
+                "importe": "8,920.80",
+                "name": "PAT 219/22",
+                "objetivo_contrato": "Bases reguladoras de la autorización para la instalación y uso de barras de la Feria y Fiestas de San Bernabé 2022.",
+                "status": "Parcialmente Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "CP 145/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación de póliza de seguro para autoridades y personal al servicio de las administraciones publicas de Excmo. Ayuntamiento de Marbella (2022-2023).",
-            "status": "Adjudicada",
-            "importe": "20,000.00",
-            "fecha": "09/08/2022"
+                "fecha": "09/08/2022",
+                "importe": "20,000.00",
+                "name": "CP 145/22",
+                "objetivo_contrato": "Contratación de póliza de seguro para autoridades y personal al servicio de las administraciones publicas de Excmo. Ayuntamiento de Marbella (2022-2023).",
+                "status": "Adjudicada",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 109/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de transporte mediante autobuses y minibuses para las actividades y excursiones que organice o en las que colabore la Delegación de Cultura, Enseñanza y Patrimonio Histórico.",
-            "status": "Resuelta",
-            "importe": "49,050.00",
-            "fecha": "29/06/2022"
+                "fecha": "29/06/2022",
+                "importe": "49,050.00",
+                "name": "SE 109/22",
+                "objetivo_contrato": "Servicio de transporte mediante autobuses y minibuses para las actividades y excursiones que organice o en las que colabore la Delegación de Cultura, Enseñanza y Patrimonio Histórico.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "CP 222/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Patrocinio publicitario para la promoción turística y deportiva de la ciudad de Marbella en el circuito de World Padel Tour 2022 y 2023.",
-            "status": "Resuelta",
-            "importe": "100,000.00",
-            "fecha": "08/06/2022"
+                "fecha": "08/06/2022",
+                "importe": "100,000.00",
+                "name": "CP 222/22",
+                "objetivo_contrato": "Patrocinio publicitario para la promoción turística y deportiva de la ciudad de Marbella en el circuito de World Padel Tour 2022 y 2023.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SU 212/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro para la sustitución de la cámara frigorífica de frutas y verduras del Mercado Central de Marbella.",
-            "status": "Resuelta",
-            "importe": "8,073.72",
-            "fecha": "18/05/2022"
+                "fecha": "18/05/2022",
+                "importe": "8,073.72",
+                "name": "SU 212/22",
+                "objetivo_contrato": "Suministro para la sustitución de la cámara frigorífica de frutas y verduras del Mercado Central de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "CP 166/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Patrocinio publicitario para la promoción de la ciudad de Marbella mediante la difusión de la imagen del logo marca \"Marbella\" en un equipo de competición en la FIM Junior GP-EUROPEAN TALENT CUP de motociclismo.",
-            "status": "Resuelta",
-            "importe": "100,000.00",
-            "fecha": "12/07/2022"
+                "fecha": "12/07/2022",
+                "importe": "100,000.00",
+                "name": "CP 166/22",
+                "objetivo_contrato": "Patrocinio publicitario para la promoción de la ciudad de Marbella mediante la difusión de la imagen del logo marca \"Marbella\" en un equipo de competición en la FIM Junior GP-EUROPEAN TALENT CUP de motociclismo.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 190/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del servicio de mantenimiento de la aplicación informática PATROS para la gestión de inventario del Ayuntamiento de Marbella",
-            "status": "Resuelta",
-            "importe": "5,200.00",
-            "fecha": "23/06/2022"
+                "fecha": "23/06/2022",
+                "importe": "5,200.00",
+                "name": "SE 190/22",
+                "objetivo_contrato": "Contratación del servicio de mantenimiento de la aplicación informática PATROS para la gestión de inventario del Ayuntamiento de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 211/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del suministro de elementos de sonido para la unificación y limitación del sonido, y de infraestructura de comunicaciones para el sistema de video - vigilancia necesarios para la Feria de San Bernabé 2022 de Marbella",
-            "status": "Resuelta",
-            "importe": "24,204.40",
-            "fecha": "20/06/2022"
+                "fecha": "20/06/2022",
+                "importe": "24,204.40",
+                "name": "SU 211/22",
+                "objetivo_contrato": "Contratación del suministro de elementos de sonido para la unificación y limitación del sonido, y de infraestructura de comunicaciones para el sistema de video - vigilancia necesarios para la Feria de San Bernabé 2022 de Marbella",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "OB 189/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Actuaciones para la reparación de los daños ocasionados en los Paseos Marítimos de Marbella tras el temporal de levante sufrido desde el 3 al 5 de abril de 2022, T.M. Marbella (Málaga)",
-            "status": "Resuelta",
-            "importe": "304,311.52",
-            "fecha": "21/06/2022"
+                "fecha": "21/06/2022",
+                "importe": "304,311.52",
+                "name": "OB 189/22",
+                "objetivo_contrato": "Actuaciones para la reparación de los daños ocasionados en los Paseos Marítimos de Marbella tras el temporal de levante sufrido desde el 3 al 5 de abril de 2022, T.M. Marbella (Málaga)",
+                "status": "Resuelta",
+                "tipo": "Obras"
         },
         {
-            "name": "SU 207/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de carpas, vallas, cabinas climatizadas y baños químicos en régimen de alquiler para la organización de eventos a desarrollar por la Delegación de Fiestas en la Feria de Marbella y actividades de verano en el año 2022.",
-            "status": "Parcialmente Resuelta",
-            "importe": "41,489.43",
-            "fecha": "08/06/2022"
+                "fecha": "08/06/2022",
+                "importe": "41,489.43",
+                "name": "SU 207/22",
+                "objetivo_contrato": "Suministro de carpas, vallas, cabinas climatizadas y baños químicos en régimen de alquiler para la organización de eventos a desarrollar por la Delegación de Fiestas en la Feria de Marbella y actividades de verano en el año 2022.",
+                "status": "Parcialmente Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "CP 206/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del patrocinio publicitario para la promoción turística de Marbella mediante la difusión del logo turístico del Ayuntamiento de Marbella y otras acciones de celebración del evento \"The One Race to Marbella\" en el País Vasco 2022",
-            "status": "Resuelta",
-            "importe": "20,000.00",
-            "fecha": "08/06/2022"
+                "fecha": "08/06/2022",
+                "importe": "20,000.00",
+                "name": "CP 206/22",
+                "objetivo_contrato": "Contratación del patrocinio publicitario para la promoción turística de Marbella mediante la difusión del logo turístico del Ayuntamiento de Marbella y otras acciones de celebración del evento \"The One Race to Marbella\" en el País Vasco 2022",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SU 202/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro en régimen de arrendamiento del sistema de cubrición / Decoración para sombra del Recinto Ferial de día de la Feria y Fiestas de San Bernabé 2022",
-            "status": "Parcialmente Resuelta",
-            "importe": "48,836.42",
-            "fecha": "02/06/2022"
+                "fecha": "02/06/2022",
+                "importe": "48,836.42",
+                "name": "SU 202/22",
+                "objetivo_contrato": "Suministro en régimen de arrendamiento del sistema de cubrición / Decoración para sombra del Recinto Ferial de día de la Feria y Fiestas de San Bernabé 2022",
+                "status": "Parcialmente Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SU 41/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por lotes de aplicación software para la gestión y digitalización de documentación del archivo municipal y equipamiento tecnológico específico para llevar a cabo la implantación del archivo electrónico único del Ayuntamiento de Marbella incluido en la Edusi Marbella , modelo de ciudad sostenible 2020, cofinanciada en un 80% por el fondo europeo de desarrollo regional (FEDER) en el marco del programa operativo plurirregional de España (POPE) 2014-2020.",
-            "status": "Evaluación",
-            "importe": "150,000.00",
-            "fecha": "26/05/2022"
+                "fecha": "26/05/2022",
+                "importe": "150,000.00",
+                "name": "SU 41/22",
+                "objetivo_contrato": "Suministro por lotes de aplicación software para la gestión y digitalización de documentación del archivo municipal y equipamiento tecnológico específico para llevar a cabo la implantación del archivo electrónico único del Ayuntamiento de Marbella incluido en la Edusi Marbella , modelo de ciudad sostenible 2020, cofinanciada en un 80% por el fondo europeo de desarrollo regional (FEDER) en el marco del programa operativo plurirregional de España (POPE) 2014-2020.",
+                "status": "Evaluación",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 205/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación por cuenta abierta del servicio de material publicitario y elaboración de álbumes fotográficos para las Ferias y Fiestas 2022 y 2023 organizadas por la Delegación de Fiestas del Ayuntamiento de Marbella",
-            "status": "Resuelta",
-            "importe": "16,470.12",
-            "fecha": "20/06/2022"
+                "fecha": "20/06/2022",
+                "importe": "16,470.12",
+                "name": "SE 205/22",
+                "objetivo_contrato": "Contratación por cuenta abierta del servicio de material publicitario y elaboración de álbumes fotográficos para las Ferias y Fiestas 2022 y 2023 organizadas por la Delegación de Fiestas del Ayuntamiento de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 174/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de sopladoras, desbrozadoras, una trituradora y pequeño suministro de material de esta maquinas para la Delegación de Limpieza del Excmo. Ayuntamiento de Marbella para el periodo de 2022 a 2026.",
-            "status": "Evaluación",
-            "importe": "41,245.00",
-            "fecha": "24/05/2022"
+                "fecha": "24/05/2022",
+                "importe": "41,245.00",
+                "name": "SU 174/22",
+                "objetivo_contrato": "Suministro de sopladoras, desbrozadoras, una trituradora y pequeño suministro de material de esta maquinas para la Delegación de Limpieza del Excmo. Ayuntamiento de Marbella para el periodo de 2022 a 2026.",
+                "status": "Evaluación",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 193/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de organización y producción de las diferentes fiestas de época estival a celebrar en el Distrito de San Pedro Alcántara en el ejercicio 2022",
-            "status": "Resuelta",
-            "importe": "38,750.00",
-            "fecha": "28/07/2022"
+                "fecha": "28/07/2022",
+                "importe": "38,750.00",
+                "name": "SE 193/22",
+                "objetivo_contrato": "Servicio de organización y producción de las diferentes fiestas de época estival a celebrar en el Distrito de San Pedro Alcántara en el ejercicio 2022",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "CAE 143/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Explotación de la peluquería del Centro de Participación Activa para personas mayores \"San Pedro Alcántara I\" de Marbella",
-            "status": "Resuelta",
-            "importe": "3,878.16",
-            "fecha": "11/05/2022"
+                "fecha": "11/05/2022",
+                "importe": "3,878.16",
+                "name": "CAE 143/22",
+                "objetivo_contrato": "Explotación de la peluquería del Centro de Participación Activa para personas mayores \"San Pedro Alcántara I\" de Marbella",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "SU 194/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación por cuenta abierta del Suministro y Mantenimiento de Trajes de Flamenca para las Ferias y Fiestas 2022 y 2023 organizadas por la Delegación de Fiestas del Ayuntamiento de Marbella",
-            "status": "Resuelta",
-            "importe": "34,200.00",
-            "fecha": "20/06/2022"
+                "fecha": "20/06/2022",
+                "importe": "34,200.00",
+                "name": "SU 194/22",
+                "objetivo_contrato": "Contratación por cuenta abierta del Suministro y Mantenimiento de Trajes de Flamenca para las Ferias y Fiestas 2022 y 2023 organizadas por la Delegación de Fiestas del Ayuntamiento de Marbella",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SU 203/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Alquiler de maquinaria para las playas de T.M. de Marbella tras los temporales de levante de marzo de 2022.",
-            "status": "Resuelta",
-            "importe": "24,100.00",
-            "fecha": "04/05/2022"
+                "fecha": "04/05/2022",
+                "importe": "24,100.00",
+                "name": "SU 203/22",
+                "objetivo_contrato": "Alquiler de maquinaria para las playas de T.M. de Marbella tras los temporales de levante de marzo de 2022.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "CP 129/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del patrocinio publicitario para la promoción de la ciudad de Marbella a través de la presencia del logo marca \"Marbella\" en el evento de triatlón de resistencia de la marca IRONMAN® 70.3® durante los años 2022, 2023, 2024 Y 2025.",
-            "status": "Resuelta",
-            "importe": "340,000.00",
-            "fecha": "08/06/2022"
+                "fecha": "08/06/2022",
+                "importe": "340,000.00",
+                "name": "CP 129/22",
+                "objetivo_contrato": "Contratación del patrocinio publicitario para la promoción de la ciudad de Marbella a través de la presencia del logo marca \"Marbella\" en el evento de triatlón de resistencia de la marca IRONMAN® 70.3® durante los años 2022, 2023, 2024 Y 2025.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 171/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Prestación de servicios docentes para impartir y ejecutar las acciones formativas y deportivas del \"Programa de prevención, ocio y gestión del tiempo libre” para el año 2022",
-            "status": "Parcialmente Resuelta",
-            "importe": "54,733.00",
-            "fecha": "25/08/2022"
+                "fecha": "25/08/2022",
+                "importe": "54,733.00",
+                "name": "SE 171/22",
+                "objetivo_contrato": "Prestación de servicios docentes para impartir y ejecutar las acciones formativas y deportivas del \"Programa de prevención, ocio y gestión del tiempo libre” para el año 2022",
+                "status": "Parcialmente Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 201/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de mobiliario por el temporal de levante del pasado 20 al 25 de marzo 2022 de la Delegación de Medio Ambiente y Playas.",
-            "status": "Resuelta",
-            "importe": "29,800.00",
-            "fecha": "29/04/2022"
+                "fecha": "29/04/2022",
+                "importe": "29,800.00",
+                "name": "SU 201/22",
+                "objetivo_contrato": "Suministro de mobiliario por el temporal de levante del pasado 20 al 25 de marzo 2022 de la Delegación de Medio Ambiente y Playas.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SU 181/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de diversos productos de alimentación, golosinas y repostería de Navidad, con motivo de actos a realizar de la Delegación de Fiestas.",
-            "status": "Resuelta",
-            "importe": "49,995.00",
-            "fecha": "20/06/2022"
+                "fecha": "20/06/2022",
+                "importe": "49,995.00",
+                "name": "SU 181/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de diversos productos de alimentación, golosinas y repostería de Navidad, con motivo de actos a realizar de la Delegación de Fiestas.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 128/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de dirección facultativa de la obra \"Construcción de nuevo edificio para el futuro centro de salud de las Chapas en calle La Hacienda (SG-E-44)\".",
-            "status": "Evaluación",
-            "importe": "18,909.51",
-            "fecha": "10/05/2022"
+                "fecha": "10/05/2022",
+                "importe": "18,909.51",
+                "name": "SE 128/22",
+                "objetivo_contrato": "Servicio de dirección facultativa de la obra \"Construcción de nuevo edificio para el futuro centro de salud de las Chapas en calle La Hacienda (SG-E-44)\".",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 123/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio de Mantenimiento Preventivo y Correctivo de Equipos, Sistemas e Instalaciones de carga de Botellas de los Equipos de Respiración Autónoma del Parque de Bomberos de Marbella para los ejercicios 2022, 2023 y 2024",
-            "status": "Adjudicada",
-            "importe": "13,800.00",
-            "fecha": "05/08/2022"
+                "fecha": "05/08/2022",
+                "importe": "13,800.00",
+                "name": "SE 123/22",
+                "objetivo_contrato": "Contratación del Servicio de Mantenimiento Preventivo y Correctivo de Equipos, Sistemas e Instalaciones de carga de Botellas de los Equipos de Respiración Autónoma del Parque de Bomberos de Marbella para los ejercicios 2022, 2023 y 2024",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "OB 118/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de las obras de Construcción de nuevo edificio para el futuro Centro Salud de Las Chapas en Calle La Hacienda (SG-E-44). T.M. Marbella (Málaga)",
-            "status": "Resuelta",
-            "importe": "694,228.15",
-            "fecha": "17/06/2022"
+                "fecha": "17/06/2022",
+                "importe": "694,228.15",
+                "name": "OB 118/22",
+                "objetivo_contrato": "Contratación de las obras de Construcción de nuevo edificio para el futuro Centro Salud de Las Chapas en Calle La Hacienda (SG-E-44). T.M. Marbella (Málaga)",
+                "status": "Resuelta",
+                "tipo": "Obras"
         },
         {
-            "name": "SE 187/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de emergencia de las actuaciones necesarias en los paseos marítimos y sus accesos por el temporal de levante del pasado 20 al 25 de marzo 2022 de la Delegación de Medio Ambiente y playas: alquiler de maquinaria II.",
-            "status": "Resuelta",
-            "importe": "53,640.00",
-            "fecha": "20/04/2022"
+                "fecha": "20/04/2022",
+                "importe": "53,640.00",
+                "name": "SE 187/22",
+                "objetivo_contrato": "Servicio de emergencia de las actuaciones necesarias en los paseos marítimos y sus accesos por el temporal de levante del pasado 20 al 25 de marzo 2022 de la Delegación de Medio Ambiente y playas: alquiler de maquinaria II.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 183/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de emergencia de las actuaciones necesarias en los paseos marítimos y sus accesos por el temporal de levante del pasado 20 al 25 de marzo de 2022 de la Delegación de Medio Ambiente y Playas: Alquiler de maquinaria.",
-            "status": "Resuelta",
-            "importe": "17,979.00",
-            "fecha": "20/04/2022"
+                "fecha": "20/04/2022",
+                "importe": "17,979.00",
+                "name": "SE 183/22",
+                "objetivo_contrato": "Servicio de emergencia de las actuaciones necesarias en los paseos marítimos y sus accesos por el temporal de levante del pasado 20 al 25 de marzo de 2022 de la Delegación de Medio Ambiente y Playas: Alquiler de maquinaria.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "CAE 155/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación de la explotación de la peluquería del Centro de Participación Activa para personas mayores de San Pedro Alcántara II de Marbella",
-            "status": "Resuelta",
-            "importe": "5,512.32",
-            "fecha": "04/08/2022"
+                "fecha": "04/08/2022",
+                "importe": "5,512.32",
+                "name": "CAE 155/22",
+                "objetivo_contrato": "Contratación de la explotación de la peluquería del Centro de Participación Activa para personas mayores de San Pedro Alcántara II de Marbella",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "SE 144/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Mantenimiento Correctivo y Sustitución de Equipos de Aire Acondicionado en las Dependencias Municipales para 2022, 2023, 2024 y 2025",
-            "status": "Evaluación",
-            "importe": "978,773.86",
-            "fecha": "27/05/2022"
+                "fecha": "27/05/2022",
+                "importe": "978,773.86",
+                "name": "SE 144/22",
+                "objetivo_contrato": "Contratación del Mantenimiento Correctivo y Sustitución de Equipos de Aire Acondicionado en las Dependencias Municipales para 2022, 2023, 2024 y 2025",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 121/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del Suministro por cuenta abierta de Material de Señalización de Tráfico para los Servicios Operativos de la Delegación Municipal de Tráfico",
-            "status": "Adjudicada",
-            "importe": "58,000.00",
-            "fecha": "19/07/2022"
+                "fecha": "19/07/2022",
+                "importe": "58,000.00",
+                "name": "SU 121/22",
+                "objetivo_contrato": "Contratación del Suministro por cuenta abierta de Material de Señalización de Tráfico para los Servicios Operativos de la Delegación Municipal de Tráfico",
+                "status": "Adjudicada",
+                "tipo": "Suministros"
         },
         {
-            "name": "CP 158/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Servicio de organización, gestión y producción de las actuaciones artísticas que constituyen el evento \"San Pedro Rock\" a celebrar en el Parque de los Tres Jardines el día 4 de junio de 2022",
-            "status": "Resuelta",
-            "importe": "22,276.00",
-            "fecha": "09/05/2022"
+                "fecha": "09/05/2022",
+                "importe": "22,276.00",
+                "name": "CP 158/22",
+                "objetivo_contrato": "Servicio de organización, gestión y producción de las actuaciones artísticas que constituyen el evento \"San Pedro Rock\" a celebrar en el Parque de los Tres Jardines el día 4 de junio de 2022",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SU 150/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del Suministro de Equipos de Protección Respiratoria y Material Pesado Rescate Acuático, por lotes para el Servicio de Prevención, Extinción de Incendios y Salvamentos",
-            "status": "Evaluación",
-            "importe": "74,680.00",
-            "fecha": "27/04/2022"
+                "fecha": "27/04/2022",
+                "importe": "74,680.00",
+                "name": "SU 150/22",
+                "objetivo_contrato": "Contratación del Suministro de Equipos de Protección Respiratoria y Material Pesado Rescate Acuático, por lotes para el Servicio de Prevención, Extinción de Incendios y Salvamentos",
+                "status": "Evaluación",
+                "tipo": "Suministros"
         },
         {
-            "name": "CAE 75/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación del Servicio de Ventas por Máquinas Automáticas (vending) de Bebidas y Alimentos para cubrir las necesidades de los usuarios de las distinta dependendias",
-            "status": "Resuelta",
-            "importe": "21,338.25",
-            "fecha": "20/05/2022"
+                "fecha": "20/05/2022",
+                "importe": "21,338.25",
+                "name": "CAE 75/22",
+                "objetivo_contrato": "Contratación del Servicio de Ventas por Máquinas Automáticas (vending) de Bebidas y Alimentos para cubrir las necesidades de los usuarios de las distinta dependendias",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "SE 182/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Eliminación de riesgos para las playas del T.M. de Marbella tras el temporal de levante acaecido del 20 al 25 de marzo 2022.",
-            "status": "Resuelta",
-            "importe": "34,713.60",
-            "fecha": "07/04/2022"
+                "fecha": "07/04/2022",
+                "importe": "34,713.60",
+                "name": "SE 182/22",
+                "objetivo_contrato": "Eliminación de riesgos para las playas del T.M. de Marbella tras el temporal de levante acaecido del 20 al 25 de marzo 2022.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "CP 160/22",
-            "tipo": "Concesión de Servicios",
-            "objetivo_contrato": "Contratación de un préstamo a largo plazo para el Excmo. Ayuntamiento de Marbella",
-            "status": "Adjudicada",
-            "importe": "8,241,013.71",
-            "fecha": "22/07/2022"
+                "fecha": "22/07/2022",
+                "importe": "8,241,013.71",
+                "name": "CP 160/22",
+                "objetivo_contrato": "Contratación de un préstamo a largo plazo para el Excmo. Ayuntamiento de Marbella",
+                "status": "Adjudicada",
+                "tipo": "Concesión de Servicios"
         },
         {
-            "name": "SE 156/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de dirección facultativa de la obra de acondicionamiento de local en Avda. de Ricardo Soriano 61, para futuro Centro de Salud Marbella Oeste T.M. Marbella (Malaga).",
-            "status": "Resuelta",
-            "importe": "44,988.00",
-            "fecha": "04/07/2022"
+                "fecha": "04/07/2022",
+                "importe": "44,988.00",
+                "name": "SE 156/22",
+                "objetivo_contrato": "Servicio de dirección facultativa de la obra de acondicionamiento de local en Avda. de Ricardo Soriano 61, para futuro Centro de Salud Marbella Oeste T.M. Marbella (Malaga).",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 147/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de organización de eventos deportivos pendientes del distrito de San Pedro Alcántara para los años 2022 y 2023.",
-            "status": "Resuelta",
-            "importe": "43,968.96",
-            "fecha": "29/07/2022"
+                "fecha": "29/07/2022",
+                "importe": "43,968.96",
+                "name": "SE 147/22",
+                "objetivo_contrato": "Servicio de organización de eventos deportivos pendientes del distrito de San Pedro Alcántara para los años 2022 y 2023.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "OB 161/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de las obras: \"Acerado en el enlace P.K. 181 de la carretera A-7, T.M. Marbella (Málaga)",
-            "status": "Adjudicada",
-            "importe": "304,371.52",
-            "fecha": "10/08/2022"
+                "fecha": "10/08/2022",
+                "importe": "304,371.52",
+                "name": "OB 161/22",
+                "objetivo_contrato": "Contratación de las obras: \"Acerado en el enlace P.K. 181 de la carretera A-7, T.M. Marbella (Málaga)",
+                "status": "Adjudicada",
+                "tipo": "Obras"
         },
         {
-            "name": "CP 140/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del Patrocinio publicitario para la promoción turística de Marbella mediante la difusión del logo turístico del Ayuntamiento de Marbella y otras acciones, en la celebración del evento “CHEFS FOR CHILDREN”.",
-            "status": "Resuelta",
-            "importe": "20,000.00",
-            "fecha": "08/06/2022"
+                "fecha": "08/06/2022",
+                "importe": "20,000.00",
+                "name": "CP 140/22",
+                "objetivo_contrato": "Contratación del Patrocinio publicitario para la promoción turística de Marbella mediante la difusión del logo turístico del Ayuntamiento de Marbella y otras acciones, en la celebración del evento “CHEFS FOR CHILDREN”.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "CP 157/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Gestión y producción de las actuaciones artísticas en el \"Festival Polivalente 2022\"",
-            "status": "Resuelta",
-            "importe": "34,736.20",
-            "fecha": "22/06/2022"
+                "fecha": "22/06/2022",
+                "importe": "34,736.20",
+                "name": "CP 157/22",
+                "objetivo_contrato": "Gestión y producción de las actuaciones artísticas en el \"Festival Polivalente 2022\"",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "OB 86/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de las obras Reconstrucción de Muros de Cerramiento, Eliminación de Barreras Arquitectónicas y Adecuación de las Instalaciones Eléctricas, Alumbrado y Sistema Contra Incendios del C.E.P. Federico García Lorca. T.M. Marbella (Málaga)",
-            "status": "Adjudicada",
-            "importe": "532,332.50",
-            "fecha": "19/08/2022"
+                "fecha": "19/08/2022",
+                "importe": "532,332.50",
+                "name": "OB 86/22",
+                "objetivo_contrato": "Contratación de las obras Reconstrucción de Muros de Cerramiento, Eliminación de Barreras Arquitectónicas y Adecuación de las Instalaciones Eléctricas, Alumbrado y Sistema Contra Incendios del C.E.P. Federico García Lorca. T.M. Marbella (Málaga)",
+                "status": "Adjudicada",
+                "tipo": "Obras"
         },
         {
-            "name": "SU 142/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de material diverso de ferretería para los Servicios Operativos de Marbella, Nueva Andalucía y Las Chapas, durante los años 2022, 2023, 2024, 2025 y 2026",
-            "status": "Resuelta",
-            "importe": "99,173.68",
-            "fecha": "28/07/2022"
+                "fecha": "28/07/2022",
+                "importe": "99,173.68",
+                "name": "SU 142/22",
+                "objetivo_contrato": "Suministro de material diverso de ferretería para los Servicios Operativos de Marbella, Nueva Andalucía y Las Chapas, durante los años 2022, 2023, 2024, 2025 y 2026",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 06/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de asistencia técnica a la dirección facultativa del plan de conservación de Urbanizaciones, Paseos Marítimos y acceso a playas del Termino Municipal de Marbella (Málaga), para el Excmo. Ayuntamiento de Marbella.",
-            "status": "Evaluación",
-            "importe": "46,299.40",
-            "fecha": "12/04/2022"
+                "fecha": "12/04/2022",
+                "importe": "46,299.40",
+                "name": "SE 06/22",
+                "objetivo_contrato": "Servicio de asistencia técnica a la dirección facultativa del plan de conservación de Urbanizaciones, Paseos Marítimos y acceso a playas del Termino Municipal de Marbella (Málaga), para el Excmo. Ayuntamiento de Marbella.",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 57/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de mantenimiento y soporte técnico para el sistema de aplicaciones informáticas “WINMEDTRA”, “WINSEHTRA” Y “ERGOTRA” para el Departamento de Medicina Laboral \"Servicio Medico\" y prevención de riesgos laborales",
-            "status": "Resuelta",
-            "importe": "6,400.00",
-            "fecha": "08/06/2022"
+                "fecha": "08/06/2022",
+                "importe": "6,400.00",
+                "name": "SE 57/22",
+                "objetivo_contrato": "Servicio de mantenimiento y soporte técnico para el sistema de aplicaciones informáticas “WINMEDTRA”, “WINSEHTRA” Y “ERGOTRA” para el Departamento de Medicina Laboral \"Servicio Medico\" y prevención de riesgos laborales",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 110/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de coordinación de seguridad y salud en fase de ejecución de las actuaciones en los cauces y parcelas municipales del Ayuntamiento de Marbella",
-            "status": "Evaluación",
-            "importe": "7,234.85",
-            "fecha": "11/04/2022"
+                "fecha": "11/04/2022",
+                "importe": "7,234.85",
+                "name": "SE 110/22",
+                "objetivo_contrato": "Servicio de coordinación de seguridad y salud en fase de ejecución de las actuaciones en los cauces y parcelas municipales del Ayuntamiento de Marbella",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 122/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del Suministro de dos Furgonetas de Intervención Policial para la Policía Local de Marbella",
-            "status": "Adjudicada",
-            "importe": "123,966.94",
-            "fecha": "27/06/2022"
+                "fecha": "27/06/2022",
+                "importe": "123,966.94",
+                "name": "SU 122/22",
+                "objetivo_contrato": "Contratación del Suministro de dos Furgonetas de Intervención Policial para la Policía Local de Marbella",
+                "status": "Adjudicada",
+                "tipo": "Suministros"
         },
         {
-            "name": "CP 139/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del espectáculo Gran Gala-Estrellas de la Danza de la Delegación de Cultura del Excmo. Ayuntamiento de Marbella.",
-            "status": "Resuelta",
-            "importe": "35,000.00",
-            "fecha": "22/06/2022"
+                "fecha": "22/06/2022",
+                "importe": "35,000.00",
+                "name": "CP 139/22",
+                "objetivo_contrato": "Contratación del espectáculo Gran Gala-Estrellas de la Danza de la Delegación de Cultura del Excmo. Ayuntamiento de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 100/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio de Soporte Técnico y Mantenimiento para el Sistema de Aplicaciones de Recursos Humanos del Ayuntamiento de Marbella",
-            "status": "Resuelta",
-            "importe": "104,990.40",
-            "fecha": "21/06/2022"
+                "fecha": "21/06/2022",
+                "importe": "104,990.40",
+                "name": "SE 100/22",
+                "objetivo_contrato": "Contratación del Servicio de Soporte Técnico y Mantenimiento para el Sistema de Aplicaciones de Recursos Humanos del Ayuntamiento de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "OB 85/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de las obras de Reubicación de Puerta de Emergencia y otras actuaciones en el CEIP Vicente Aleixandre en el Término Municipal de Marbella",
-            "status": "Resuelta",
-            "importe": "73,578.86",
-            "fecha": "29/07/2022"
+                "fecha": "29/07/2022",
+                "importe": "73,578.86",
+                "name": "OB 85/22",
+                "objetivo_contrato": "Contratación de las obras de Reubicación de Puerta de Emergencia y otras actuaciones en el CEIP Vicente Aleixandre en el Término Municipal de Marbella",
+                "status": "Resuelta",
+                "tipo": "Obras"
         },
         {
-            "name": "SE 131/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de dirección arqueológica de la obra de \"Rehabilitación del Trapiche del Prado, antiguo complejo preindustrial de la caña de azúcar, para centro de interpretación T.M. Marbella (Málaga)",
-            "status": "Adjudicada",
-            "importe": "50,000.00",
-            "fecha": "22/07/2022"
+                "fecha": "22/07/2022",
+                "importe": "50,000.00",
+                "name": "SE 131/22",
+                "objetivo_contrato": "Servicio de dirección arqueológica de la obra de \"Rehabilitación del Trapiche del Prado, antiguo complejo preindustrial de la caña de azúcar, para centro de interpretación T.M. Marbella (Málaga)",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 132/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio por cuenta abierta de impresión para las Delegaciones Municipales de Juventud, Participación Ciudadana y Sanidad del Excmo. Ayuntamiento de Marbella.",
-            "status": "Resuelta",
-            "importe": "19,990.00",
-            "fecha": "01/07/2022"
+                "fecha": "01/07/2022",
+                "importe": "19,990.00",
+                "name": "SE 132/22",
+                "objetivo_contrato": "Servicio por cuenta abierta de impresión para las Delegaciones Municipales de Juventud, Participación Ciudadana y Sanidad del Excmo. Ayuntamiento de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 152/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del Suministro en Régimen de Alquiler de Material necesario para el Montaje de la Carrera Oficial y Vallados, Sonido, Iluminación y Carpas necesario para las Salidas Procesionales, con motivo de la Semana Santa de Marbella 2022",
-            "status": "Resuelta",
-            "importe": "45,047.80",
-            "fecha": "04/04/2022"
+                "fecha": "04/04/2022",
+                "importe": "45,047.80",
+                "name": "SU 152/22",
+                "objetivo_contrato": "Contratación del Suministro en Régimen de Alquiler de Material necesario para el Montaje de la Carrera Oficial y Vallados, Sonido, Iluminación y Carpas necesario para las Salidas Procesionales, con motivo de la Semana Santa de Marbella 2022",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 136/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Suministro y la Prestación de Servicios para las Principales Efemérides en el ámbito de la Igualdad y la Erradicación de la Violencia de Género",
-            "status": "Adjudicada",
-            "importe": "23,305.79",
-            "fecha": "12/08/2022"
+                "fecha": "12/08/2022",
+                "importe": "23,305.79",
+                "name": "SE 136/22",
+                "objetivo_contrato": "Contratación del Suministro y la Prestación de Servicios para las Principales Efemérides en el ámbito de la Igualdad y la Erradicación de la Violencia de Género",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 90/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de equipos con instalación para el sistema de red de radio digital de los servicios de Seguridad Ciudadana y emergencias del Excmo. Ayuntamiento de Marbella.",
-            "status": "Adjudicada",
-            "importe": "146,043.21",
-            "fecha": "14/07/2022"
+                "fecha": "14/07/2022",
+                "importe": "146,043.21",
+                "name": "SU 90/22",
+                "objetivo_contrato": "Suministro de equipos con instalación para el sistema de red de radio digital de los servicios de Seguridad Ciudadana y emergencias del Excmo. Ayuntamiento de Marbella.",
+                "status": "Adjudicada",
+                "tipo": "Suministros"
         },
         {
-            "name": "DSU 108/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de material diverso de fundición, composite y cubrezanjas para los servicios operativos de Marbella, Nueva Andalucía y Las Chapas",
-            "status": "Resuelta",
-            "importe": "37,190.09",
-            "fecha": "19/04/2022"
+                "fecha": "19/04/2022",
+                "importe": "37,190.09",
+                "name": "DSU 108/22",
+                "objetivo_contrato": "Suministro de material diverso de fundición, composite y cubrezanjas para los servicios operativos de Marbella, Nueva Andalucía y Las Chapas",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "DCP 56/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del Patrocinio para la Promoción de la Ciudad Mediante la Difusión de la Imagen del Logo \"Marca Marbella Junior\" a través de los Equipos de Cantera del Marbella Rugby Club en las competiciones Deportivas Federadas en las que participen durante el periodo comprendido entre los años 2022-2023",
-            "status": "Resuelta",
-            "importe": "17,035.12",
-            "fecha": "29/07/2022"
+                "fecha": "29/07/2022",
+                "importe": "17,035.12",
+                "name": "DCP 56/22",
+                "objetivo_contrato": "Contratación del Patrocinio para la Promoción de la Ciudad Mediante la Difusión de la Imagen del Logo \"Marca Marbella Junior\" a través de los Equipos de Cantera del Marbella Rugby Club en las competiciones Deportivas Federadas en las que participen durante el periodo comprendido entre los años 2022-2023",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "DCP 60/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del Patrocinio Publicitario para la Promoción de la Ciudad de Marbella mediante la difusión de la Imagen del Logo Marca \"Marbella\" con los Equipos de Competición de la Federación Andaluza de Gimnasia",
-            "status": "Resuelta",
-            "importe": "127,685.96",
-            "fecha": "11/05/2022"
+                "fecha": "11/05/2022",
+                "importe": "127,685.96",
+                "name": "DCP 60/22",
+                "objetivo_contrato": "Contratación del Patrocinio Publicitario para la Promoción de la Ciudad de Marbella mediante la difusión de la Imagen del Logo Marca \"Marbella\" con los Equipos de Competición de la Federación Andaluza de Gimnasia",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 156/21",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de instalación, mantenimiento, desmontaje, limpieza, almacenamiento y suministro de los equipamientos de playa de Marbella y San PEdro Alcantara Excmo. Ayuntamiento de Marbella",
-            "status": "Resuelta",
-            "importe": "84,205.87",
-            "fecha": "07/03/2022"
+                "fecha": "07/03/2022",
+                "importe": "84,205.87",
+                "name": "SE 156/21",
+                "objetivo_contrato": "Servicio de instalación, mantenimiento, desmontaje, limpieza, almacenamiento y suministro de los equipamientos de playa de Marbella y San PEdro Alcantara Excmo. Ayuntamiento de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "OB 155/21",
-            "tipo": "Obras",
-            "objetivo_contrato": "Obra para la reconstrucción de la plataforma de calzada y acerado por hundimiento de ambas junto al nº 8 de la Avda. Lorenzo Morito Romero de San Pedro Alcantara.",
-            "status": "Resuelta",
-            "importe": "16,528.93",
-            "fecha": "07/03/2022"
+                "fecha": "07/03/2022",
+                "importe": "16,528.93",
+                "name": "OB 155/21",
+                "objetivo_contrato": "Obra para la reconstrucción de la plataforma de calzada y acerado por hundimiento de ambas junto al nº 8 de la Avda. Lorenzo Morito Romero de San Pedro Alcantara.",
+                "status": "Resuelta",
+                "tipo": "Obras"
         },
         {
-            "name": "DSU 34/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de material vegetal y de vivero para la Delegación de Parques y Jardines.",
-            "status": "Resuelta",
-            "importe": "462,727.27",
-            "fecha": "20/06/2022"
+                "fecha": "20/06/2022",
+                "importe": "462,727.27",
+                "name": "DSU 34/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de material vegetal y de vivero para la Delegación de Parques y Jardines.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 127/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio Dirección Arqueológica de la obra de Residencia Pública para Personas Mayores en el Trapiche del Prado. T.M. Marbella (Málaga)",
-            "status": "Evaluación",
-            "importe": "37,919.29",
-            "fecha": "21/03/2022"
+                "fecha": "21/03/2022",
+                "importe": "37,919.29",
+                "name": "SE 127/22",
+                "objetivo_contrato": "Contratación del Servicio Dirección Arqueológica de la obra de Residencia Pública para Personas Mayores en el Trapiche del Prado. T.M. Marbella (Málaga)",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "OB 117/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de las obras Acondicionamiento de Local en Avenida de Ricardo Soriano, 61 para futuro Centro de Salud Marbella Oeste. T.M. Marbella (Málaga)",
-            "status": "Resuelta",
-            "importe": "1,642,200.00",
-            "fecha": "08/06/2022"
+                "fecha": "08/06/2022",
+                "importe": "1,642,200.00",
+                "name": "OB 117/22",
+                "objetivo_contrato": "Contratación de las obras Acondicionamiento de Local en Avenida de Ricardo Soriano, 61 para futuro Centro de Salud Marbella Oeste. T.M. Marbella (Málaga)",
+                "status": "Resuelta",
+                "tipo": "Obras"
         },
         {
-            "name": "SU 125/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro en régimen de alquiler de los stands y elementos auxiliares necesarios para la instalación de la Feria del libro en San Pedro de Alcántara, incluido el transporte, montaje, desmontaje y guarda para averías e incidencias",
-            "status": "Resuelta",
-            "importe": "6,000.00",
-            "fecha": "22/06/2022"
+                "fecha": "22/06/2022",
+                "importe": "6,000.00",
+                "name": "SU 125/22",
+                "objetivo_contrato": "Suministro en régimen de alquiler de los stands y elementos auxiliares necesarios para la instalación de la Feria del libro en San Pedro de Alcántara, incluido el transporte, montaje, desmontaje y guarda para averías e incidencias",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 77/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de control de acceso y cierre para los fines de semana y festivos de los centros de participación activa para personas mayores de Marbella y San Pedro",
-            "status": "Adjudicada",
-            "importe": "201,096.00",
-            "fecha": "10/08/2022"
+                "fecha": "10/08/2022",
+                "importe": "201,096.00",
+                "name": "SE 77/22",
+                "objetivo_contrato": "Servicio de control de acceso y cierre para los fines de semana y festivos de los centros de participación activa para personas mayores de Marbella y San Pedro",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "CP 135/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Servicio de organización y producción de las actuaciones de Cádiz y Málaga que tendrán lugar con motivo del Carnaval 2022 en Marbella.",
-            "status": "Resuelta",
-            "importe": "52,351.00",
-            "fecha": "23/03/2022"
+                "fecha": "23/03/2022",
+                "importe": "52,351.00",
+                "name": "CP 135/22",
+                "objetivo_contrato": "Servicio de organización y producción de las actuaciones de Cádiz y Málaga que tendrán lugar con motivo del Carnaval 2022 en Marbella.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SU 106/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de material diverso de cerrajería para los servicios operativos de Marbella, Nueva Andalucía y Las Chapas, durante el año 2022",
-            "status": "Resuelta",
-            "importe": "20,661.16",
-            "fecha": "06/07/2022"
+                "fecha": "06/07/2022",
+                "importe": "20,661.16",
+                "name": "SU 106/22",
+                "objetivo_contrato": "Suministro de material diverso de cerrajería para los servicios operativos de Marbella, Nueva Andalucía y Las Chapas, durante el año 2022",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "D DSU 266/21 LOTE 3",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del suministro por cuenta abierta de empresas de material de ferretería, pintura y maderas para los servicios operativos de la Delegación Municipal de Fiestas del Excmo. Ayuntamiento de Marbella. Lote 3: Suministro de material de maderas para Marbella, Nueva Andalucía y Las Chapas.",
-            "status": "Resuelta",
-            "importe": "36,900.00",
-            "fecha": "16/03/2022"
+                "fecha": "16/03/2022",
+                "importe": "36,900.00",
+                "name": "D DSU 266/21 LOTE 3",
+                "objetivo_contrato": "Contratación del suministro por cuenta abierta de empresas de material de ferretería, pintura y maderas para los servicios operativos de la Delegación Municipal de Fiestas del Excmo. Ayuntamiento de Marbella. Lote 3: Suministro de material de maderas para Marbella, Nueva Andalucía y Las Chapas.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "D CAE 97/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación de la Explotación de la Peluquería del Centro de Participación Activa para Personas Mayores \"Los Paisajes\" de Marbella",
-            "status": "Resuelta",
-            "importe": "5,512.32",
-            "fecha": "14/03/2022"
+                "fecha": "14/03/2022",
+                "importe": "5,512.32",
+                "name": "D CAE 97/22",
+                "objetivo_contrato": "Contratación de la Explotación de la Peluquería del Centro de Participación Activa para Personas Mayores \"Los Paisajes\" de Marbella",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "OB 32/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de la ejecución de las obras: \"Restauración y ordenación de la zona dunar Real de Zaragoza T.M. de Marbella (Málaga), incluido en la EDUSI Marbella, modelo de ciudad sostenible, cofinanciada en un 80% por el Fondo Europeo de Desarrollo Regional (FEDER), en el marco del programa operativo plurirregional de España (POPE) 2014-2020”.",
-            "status": "Evaluación",
-            "importe": "583,061.04",
-            "fecha": "16/03/2022"
+                "fecha": "16/03/2022",
+                "importe": "583,061.04",
+                "name": "OB 32/22",
+                "objetivo_contrato": "Contratación de la ejecución de las obras: \"Restauración y ordenación de la zona dunar Real de Zaragoza T.M. de Marbella (Málaga), incluido en la EDUSI Marbella, modelo de ciudad sostenible, cofinanciada en un 80% por el Fondo Europeo de Desarrollo Regional (FEDER), en el marco del programa operativo plurirregional de España (POPE) 2014-2020”.",
+                "status": "Evaluación",
+                "tipo": "Obras"
         },
         {
-            "name": "SE 107/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio por cuenta abierta de guías turísticos oficiales para la realización de visitas turísticas guiadas de la Delegación de Turismo del Excmo. Ayuntamiento de Marbella.",
-            "status": "Resuelta",
-            "importe": "5,785.12",
-            "fecha": "29/06/2022"
+                "fecha": "29/06/2022",
+                "importe": "5,785.12",
+                "name": "SE 107/22",
+                "objetivo_contrato": "Servicio por cuenta abierta de guías turísticos oficiales para la realización de visitas turísticas guiadas de la Delegación de Turismo del Excmo. Ayuntamiento de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "DD BPAT 8/21",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Enajenación de la vivienda letra A, planta segunda, edificio 1, del Conjunto Residencial Jardines de Lunamar, situado en C/ Pino Real 3, Las Chapas, anotada en el Inventario de Bienes con el numero 1.166, naturaleza patrimonial-PMS.",
-            "status": "Resuelta",
-            "importe": "235,609.38",
-            "fecha": "18/07/2022"
+                "fecha": "18/07/2022",
+                "importe": "235,609.38",
+                "name": "DD BPAT 8/21",
+                "objetivo_contrato": "Enajenación de la vivienda letra A, planta segunda, edificio 1, del Conjunto Residencial Jardines de Lunamar, situado en C/ Pino Real 3, Las Chapas, anotada en el Inventario de Bienes con el numero 1.166, naturaleza patrimonial-PMS.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "SE 74/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de consultoría para el diseño, desarrollo y evaluación de una campaña de concienciación y sensibilización para la prevención y erradicación de las violencias de genero dirigida a la población joven en el municipio de Marbella y San Pedro Alcántara, con cargo a los fondos del pacto de estado 2021.",
-            "status": "Resuelta",
-            "importe": "31,962.90",
-            "fecha": "29/06/2022"
+                "fecha": "29/06/2022",
+                "importe": "31,962.90",
+                "name": "SE 74/22",
+                "objetivo_contrato": "Servicio de consultoría para el diseño, desarrollo y evaluación de una campaña de concienciación y sensibilización para la prevención y erradicación de las violencias de genero dirigida a la población joven en el municipio de Marbella y San Pedro Alcántara, con cargo a los fondos del pacto de estado 2021.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 76/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de gasolina sin plomo para embarcaciones del Excmo. Ayuntamiento de Marbella (Años 2022-2025).",
-            "status": "Resuelta",
-            "importe": "39,669.40",
-            "fecha": "16/03/2022"
+                "fecha": "16/03/2022",
+                "importe": "39,669.40",
+                "name": "SU 76/22",
+                "objetivo_contrato": "Suministro de gasolina sin plomo para embarcaciones del Excmo. Ayuntamiento de Marbella (Años 2022-2025).",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 51/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio por cuenta abierta de mantenimiento y reparación de motores de fuentes del termino municipal de Marbella.",
-            "status": "Resuelta",
-            "importe": "37,460.28",
-            "fecha": "26/04/2022"
+                "fecha": "26/04/2022",
+                "importe": "37,460.28",
+                "name": "SE 51/22",
+                "objetivo_contrato": "Servicio por cuenta abierta de mantenimiento y reparación de motores de fuentes del termino municipal de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 53/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de mobiliario urbano para el distrito de San Pedro.",
-            "status": "Resuelta",
-            "importe": "22,644.63",
-            "fecha": "29/06/2022"
+                "fecha": "29/06/2022",
+                "importe": "22,644.63",
+                "name": "SU 53/22",
+                "objetivo_contrato": "Suministro de mobiliario urbano para el distrito de San Pedro.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "CP 64/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación de varias pólizas de seguros privados para el Excmo. Ayuntamiento de Marbella.",
-            "status": "Resuelta",
-            "importe": "20,000.00",
-            "fecha": "26/04/2022"
+                "fecha": "26/04/2022",
+                "importe": "20,000.00",
+                "name": "CP 64/22",
+                "objetivo_contrato": "Contratación de varias pólizas de seguros privados para el Excmo. Ayuntamiento de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 98/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio por cuenta abierta de creatividad, diseño, maquetación, arte final y adaptaciones para diferentes acciones de la Delegación de Juventud, participación ciudadana y Sanidad del Excmo. Ayuntamiento de Marbella.",
-            "status": "Evaluación",
-            "importe": "18,500.00",
-            "fecha": "01/03/2022"
+                "fecha": "01/03/2022",
+                "importe": "18,500.00",
+                "name": "SE 98/22",
+                "objetivo_contrato": "Servicio por cuenta abierta de creatividad, diseño, maquetación, arte final y adaptaciones para diferentes acciones de la Delegación de Juventud, participación ciudadana y Sanidad del Excmo. Ayuntamiento de Marbella.",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 103/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del suministro necesario para los actos protocolarios de la Semana Santa 2022.",
-            "status": "Resuelta",
-            "importe": "1,909.25",
-            "fecha": "28/03/2022"
+                "fecha": "28/03/2022",
+                "importe": "1,909.25",
+                "name": "SU 103/22",
+                "objetivo_contrato": "Contratación del suministro necesario para los actos protocolarios de la Semana Santa 2022.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 49/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de asistencia técnica y consultoría para el desarrollo, implantación, verificación, seguimiento, nuevas implantaciones y certificaciones de un sistema de gestión de calidad, en relación con la formación, adaptado a la norma UNE en ISO 9001, gestionada por la Delegación de empleo del Ayuntamiento de Marbella.",
-            "status": "Adjudicada",
-            "importe": "15,015.00",
-            "fecha": "27/07/2022"
+                "fecha": "27/07/2022",
+                "importe": "15,015.00",
+                "name": "SE 49/22",
+                "objetivo_contrato": "Servicio de asistencia técnica y consultoría para el desarrollo, implantación, verificación, seguimiento, nuevas implantaciones y certificaciones de un sistema de gestión de calidad, en relación con la formación, adaptado a la norma UNE en ISO 9001, gestionada por la Delegación de empleo del Ayuntamiento de Marbella.",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 115/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio para el montaje e instalación de stands y carpas para la \"IV Feria de empresas y empleo de Marbella 2022\"",
-            "status": "Resuelta",
-            "importe": "24,500.00",
-            "fecha": "23/03/2022"
+                "fecha": "23/03/2022",
+                "importe": "24,500.00",
+                "name": "SE 115/22",
+                "objetivo_contrato": "Servicio para el montaje e instalación de stands y carpas para la \"IV Feria de empresas y empleo de Marbella 2022\"",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 114/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de la dirección de obra y dirección de ejecución de la obra del \"Centro Polivalente de usos múltiples de Nueva Andalucía, T.M. Marbella (Málaga)\".",
-            "status": "Resuelta",
-            "importe": "41,726.94",
-            "fecha": "03/08/2022"
+                "fecha": "03/08/2022",
+                "importe": "41,726.94",
+                "name": "SE 114/22",
+                "objetivo_contrato": "Servicio de la dirección de obra y dirección de ejecución de la obra del \"Centro Polivalente de usos múltiples de Nueva Andalucía, T.M. Marbella (Málaga)\".",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 108/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de material diverso de fundición, composite y cubrezanjas para los servicios operativos de Marbella, Nueva Andalucía y Las Chapas",
-            "status": "Resuelta",
-            "importe": "37,190.09",
-            "fecha": "11/03/2022"
+                "fecha": "11/03/2022",
+                "importe": "37,190.09",
+                "name": "SU 108/22",
+                "objetivo_contrato": "Suministro de material diverso de fundición, composite y cubrezanjas para los servicios operativos de Marbella, Nueva Andalucía y Las Chapas",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 40/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación de servicio por lotes para la impartición y ejecución de acciones formativas presenciales, puestas en marcha por la Delegación de Empleo del Ayuntamiento de Marbella dentro del Plan Municipal de Formación para el empleo 2022, 2023 y 2024.",
-            "status": "Parcialmente Resuelta",
-            "importe": "109,725.00",
-            "fecha": "15/07/2022"
+                "fecha": "15/07/2022",
+                "importe": "109,725.00",
+                "name": "SE 40/22",
+                "objetivo_contrato": "Contratación de servicio por lotes para la impartición y ejecución de acciones formativas presenciales, puestas en marcha por la Delegación de Empleo del Ayuntamiento de Marbella dentro del Plan Municipal de Formación para el empleo 2022, 2023 y 2024.",
+                "status": "Parcialmente Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "CP 120/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del patrocinio publicitario para la promoción turística de la ciudad de Marbella mediante la difusión de la imagen del logo \"Marbella\" en el evento de tenis de la eliminatoria de Qualifiers de la Copa Davis 2022 entre el Reino de España y Rumania \"Homenaje a Manolo Santana\", a disputar en marzo de 2022 en Marbella.",
-            "status": "Resuelta",
-            "importe": "136,000.00",
-            "fecha": "22/03/2022"
+                "fecha": "22/03/2022",
+                "importe": "136,000.00",
+                "name": "CP 120/22",
+                "objetivo_contrato": "Contratación del patrocinio publicitario para la promoción turística de la ciudad de Marbella mediante la difusión de la imagen del logo \"Marbella\" en el evento de tenis de la eliminatoria de Qualifiers de la Copa Davis 2022 entre el Reino de España y Rumania \"Homenaje a Manolo Santana\", a disputar en marzo de 2022 en Marbella.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 58/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de dirección de obra y dirección de ejecución de la obra de \"Rehabilitación del Trapiche del Prado, antiguo complejo preindustrial de la caña de azúcar para centro de interpretación T.M. Marbella (Malaga)\".",
-            "status": "Evaluación",
-            "importe": "74,512.40",
-            "fecha": "23/02/2022"
+                "fecha": "23/02/2022",
+                "importe": "74,512.40",
+                "name": "SE 58/22",
+                "objetivo_contrato": "Servicio de dirección de obra y dirección de ejecución de la obra de \"Rehabilitación del Trapiche del Prado, antiguo complejo preindustrial de la caña de azúcar para centro de interpretación T.M. Marbella (Malaga)\".",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 105/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación de los Servicios de Coordinación de Seguridad y Salud en Fase de Ejecución de la Obra de la Residencia Pública para Personas Mayores en el Trapiche del Prado. T.M. Marbella (Málaga)",
-            "status": "Evaluación",
-            "importe": "22,571.01",
-            "fecha": "22/02/2022"
+                "fecha": "22/02/2022",
+                "importe": "22,571.01",
+                "name": "SE 105/22",
+                "objetivo_contrato": "Contratación de los Servicios de Coordinación de Seguridad y Salud en Fase de Ejecución de la Obra de la Residencia Pública para Personas Mayores en el Trapiche del Prado. T.M. Marbella (Málaga)",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 116/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de coordinación de seguridad y salud en la fase de ejecución de la obra: \"Rehabilitación del Trapiche del Prado, antiguo complejo preindustrial de la caña de azúcar, para centro de interpretación. T.M. Marbella (Málaga)\".",
-            "status": "Evaluación",
-            "importe": "16,115.70",
-            "fecha": "23/02/2022"
+                "fecha": "23/02/2022",
+                "importe": "16,115.70",
+                "name": "SE 116/22",
+                "objetivo_contrato": "Servicio de coordinación de seguridad y salud en la fase de ejecución de la obra: \"Rehabilitación del Trapiche del Prado, antiguo complejo preindustrial de la caña de azúcar, para centro de interpretación. T.M. Marbella (Málaga)\".",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "CP 112/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación de las actuaciones artísticas que tendrán lugar con motivo del Carnaval 2022 en San Pedro Alcántara.",
-            "status": "Resuelta",
-            "importe": "18,410.00",
-            "fecha": "22/03/2022"
+                "fecha": "22/03/2022",
+                "importe": "18,410.00",
+                "name": "CP 112/22",
+                "objetivo_contrato": "Contratación de las actuaciones artísticas que tendrán lugar con motivo del Carnaval 2022 en San Pedro Alcántara.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 104/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicios de pasacalles infantil a celebrar durante los carnavales 2022 en Marbella y San Pedro Alcántara.",
-            "status": "Resuelta",
-            "importe": "22,000.00",
-            "fecha": "23/03/2022"
+                "fecha": "23/03/2022",
+                "importe": "22,000.00",
+                "name": "SE 104/22",
+                "objetivo_contrato": "Servicios de pasacalles infantil a celebrar durante los carnavales 2022 en Marbella y San Pedro Alcántara.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "PAT 83/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Concesión consistente en la instalación, explotación y aprovechamiento de siete lotes de masajes ubicados en las playas del termino municipal de Marbella.",
-            "status": "Adjudicada",
-            "importe": "55,944.00",
-            "fecha": "09/08/2022"
+                "fecha": "09/08/2022",
+                "importe": "55,944.00",
+                "name": "PAT 83/22",
+                "objetivo_contrato": "Concesión consistente en la instalación, explotación y aprovechamiento de siete lotes de masajes ubicados en las playas del termino municipal de Marbella.",
+                "status": "Adjudicada",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "SU 119/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de licencias del software Harmony Connect para la colección remota segura desde redes publicas a la intranet municipal como medida de contención del avance del virus Covid-19 en el ámbito laboral del Ayuntamiento de Marbella.",
-            "status": "Resuelta",
-            "importe": "22,750.00",
-            "fecha": "07/02/2022"
+                "fecha": "07/02/2022",
+                "importe": "22,750.00",
+                "name": "SU 119/22",
+                "objetivo_contrato": "Suministro de licencias del software Harmony Connect para la colección remota segura desde redes publicas a la intranet municipal como medida de contención del avance del virus Covid-19 en el ámbito laboral del Ayuntamiento de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 47/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del “Concurso de Proyectos con Intervención de Jurado para la Selección de las Propuestas Arquitectónicas a Nivel de Anteproyecto para el nuevo Estadio Municipal \"Antonio Lorenzo Cuevas\", en el Término Municipal de Marbella.",
-            "status": "Evaluación",
-            "importe": "814,230.22",
-            "fecha": "11/04/2022"
+                "fecha": "11/04/2022",
+                "importe": "814,230.22",
+                "name": "SE 47/22",
+                "objetivo_contrato": "Contratación del “Concurso de Proyectos con Intervención de Jurado para la Selección de las Propuestas Arquitectónicas a Nivel de Anteproyecto para el nuevo Estadio Municipal \"Antonio Lorenzo Cuevas\", en el Término Municipal de Marbella.",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 113/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de elementos protocolarios para actos que organiza o colabora la Delegación de Fiestas del Excmo. Ayuntamiento de Marbella durante los años 2022 Y 2023.",
-            "status": "Parcialmente Resuelta",
-            "importe": "49,304.00",
-            "fecha": "28/03/2022"
+                "fecha": "28/03/2022",
+                "importe": "49,304.00",
+                "name": "SU 113/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de elementos protocolarios para actos que organiza o colabora la Delegación de Fiestas del Excmo. Ayuntamiento de Marbella durante los años 2022 Y 2023.",
+                "status": "Parcialmente Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 95/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de organización, gestión y producción de las actuaciones artísticas, que tendrán lugar en el Paseo de las Palmeras con motivo de la celebración del Día de Andalucía el 28 de febrero de 2022.",
-            "status": "Resuelta",
-            "importe": "7,570.00",
-            "fecha": "23/03/2022"
+                "fecha": "23/03/2022",
+                "importe": "7,570.00",
+                "name": "SE 95/22",
+                "objetivo_contrato": "Servicio de organización, gestión y producción de las actuaciones artísticas, que tendrán lugar en el Paseo de las Palmeras con motivo de la celebración del Día de Andalucía el 28 de febrero de 2022.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "OB 69/22",
-            "tipo": "Obras",
-            "objetivo_contrato": "Contratación de la redacción del proyecto y la ejecución de las obras: \"Residencia publica para personas mayores en el Trapiche del Prado. T.M. Marbella (Málaga)\".",
-            "status": "Evaluación",
-            "importe": "5,076,671.98",
-            "fecha": "01/03/2022"
+                "fecha": "01/03/2022",
+                "importe": "5,076,671.98",
+                "name": "OB 69/22",
+                "objetivo_contrato": "Contratación de la redacción del proyecto y la ejecución de las obras: \"Residencia publica para personas mayores en el Trapiche del Prado. T.M. Marbella (Málaga)\".",
+                "status": "Evaluación",
+                "tipo": "Obras"
         },
         {
-            "name": "PAT 82/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Concesión consistente en la instalación, explotación, aprovechamiento y desinstalación de un parque acuático ubicado en la playa de San Pedro Alcántara del termino municipal de Marbella.",
-            "status": "Resuelta",
-            "importe": "32,608.00",
-            "fecha": "19/07/2022"
+                "fecha": "19/07/2022",
+                "importe": "32,608.00",
+                "name": "PAT 82/22",
+                "objetivo_contrato": "Concesión consistente en la instalación, explotación, aprovechamiento y desinstalación de un parque acuático ubicado en la playa de San Pedro Alcántara del termino municipal de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "SU 99/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del Suministro de Material diverso de Pintura para los Servicios Operativos de Marbella, Nueva Andalucía y Las Chapas, durante los años 2022, 2023, 2024, 2025 y 2026",
-            "status": "Resuelta",
-            "importe": "74,380.20",
-            "fecha": "04/07/2022"
+                "fecha": "04/07/2022",
+                "importe": "74,380.20",
+                "name": "SU 99/22",
+                "objetivo_contrato": "Contratación del Suministro de Material diverso de Pintura para los Servicios Operativos de Marbella, Nueva Andalucía y Las Chapas, durante los años 2022, 2023, 2024, 2025 y 2026",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 62/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio consistente en el Desarrollo e Impartición de los Cursos, Talleres y Actividades de Ocio de los Centros de Participación Activa para Personas Mayores del Excmo. Ayuntamiento de Marbella",
-            "status": "Adjudicada",
-            "importe": "321,604.00",
-            "fecha": "14/07/2022"
+                "fecha": "14/07/2022",
+                "importe": "321,604.00",
+                "name": "SE 62/22",
+                "objetivo_contrato": "Contratación del Servicio consistente en el Desarrollo e Impartición de los Cursos, Talleres y Actividades de Ocio de los Centros de Participación Activa para Personas Mayores del Excmo. Ayuntamiento de Marbella",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "D BPAT 7/21",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Enajenación de la vivienda letra B, planta primera, portal 6, edificio 2, del Conjunto Residencial Jardines del Príncipe, sito en Avda. Jaime de Mora y Aragón 16, Marbella anotado en el Inventario de Bienes Municipales con el numero 1.624, naturaleza patrimonial.",
-            "status": "Resuelta",
-            "importe": "448,654.88",
-            "fecha": "15/07/2022"
+                "fecha": "15/07/2022",
+                "importe": "448,654.88",
+                "name": "D BPAT 7/21",
+                "objetivo_contrato": "Enajenación de la vivienda letra B, planta primera, portal 6, edificio 2, del Conjunto Residencial Jardines del Príncipe, sito en Avda. Jaime de Mora y Aragón 16, Marbella anotado en el Inventario de Bienes Municipales con el numero 1.624, naturaleza patrimonial.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "D BPAT 26/21",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Enajenación de las viviendas letras A y B, planta primera, portal 7, edificio 2, del Conjunto Residencial \"Jardines del Príncipe\", sito en Avda. Jaime de Mora y Aragón 16, Marbella, anotado en el Inventario de Bienes Municipales con el numero 1.625 y 1.626, naturaleza patrimonial.",
-            "status": "Resuelta",
-            "importe": "897,309.76",
-            "fecha": "15/07/2022"
+                "fecha": "15/07/2022",
+                "importe": "897,309.76",
+                "name": "D BPAT 26/21",
+                "objetivo_contrato": "Enajenación de las viviendas letras A y B, planta primera, portal 7, edificio 2, del Conjunto Residencial \"Jardines del Príncipe\", sito en Avda. Jaime de Mora y Aragón 16, Marbella, anotado en el Inventario de Bienes Municipales con el numero 1.625 y 1.626, naturaleza patrimonial.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "D CAE 94/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación de la explotación de la peluquería del Centro de Participación Activa para personas mayores \"Nueva Andalucía\" de Marbella.",
-            "status": "Resuelta",
-            "importe": "5,132.40",
-            "fecha": "14/03/2022"
+                "fecha": "14/03/2022",
+                "importe": "5,132.40",
+                "name": "D CAE 94/22",
+                "objetivo_contrato": "Contratación de la explotación de la peluquería del Centro de Participación Activa para personas mayores \"Nueva Andalucía\" de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "D BPAT 25/21",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Enajenación de la vivienda letra B. planta primera, portal 9, edificio 2, del Conjunto Residencial \"Jardines del Príncipe\", sito en Avda. Jaime de Mora y Aragón 16, Marbella, anotado en el Inventario de Bienes Municipales con el numero 1.630, naturaleza patrimonial.",
-            "status": "Resuelta",
-            "importe": "433,451.08",
-            "fecha": "15/07/2022"
+                "fecha": "15/07/2022",
+                "importe": "433,451.08",
+                "name": "D BPAT 25/21",
+                "objetivo_contrato": "Enajenación de la vivienda letra B. planta primera, portal 9, edificio 2, del Conjunto Residencial \"Jardines del Príncipe\", sito en Avda. Jaime de Mora y Aragón 16, Marbella, anotado en el Inventario de Bienes Municipales con el numero 1.630, naturaleza patrimonial.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "D BPAT 24/22",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Enajenación de la vivienda letra A, planta primera, portal 9, edificio 2, del Conjunto Residencial \"Jardines del Príncipe\", sito en Avda. Jaime de Mora y Aragón 16, de Marbella, anotado en el Inventario de Bienes Municipales con el numero 1.629, naturaleza patrimonial.",
-            "status": "Resuelta",
-            "importe": "447,693.88",
-            "fecha": "18/07/2022"
+                "fecha": "18/07/2022",
+                "importe": "447,693.88",
+                "name": "D BPAT 24/22",
+                "objetivo_contrato": "Enajenación de la vivienda letra A, planta primera, portal 9, edificio 2, del Conjunto Residencial \"Jardines del Príncipe\", sito en Avda. Jaime de Mora y Aragón 16, de Marbella, anotado en el Inventario de Bienes Municipales con el numero 1.629, naturaleza patrimonial.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "D CAE 89/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación de la explotación de la peluquería del Centro de Participación Activa para personas mayores \"Miraflores\" de Marbella.",
-            "status": "Resuelta",
-            "importe": "5,512.32",
-            "fecha": "26/04/2022"
+                "fecha": "26/04/2022",
+                "importe": "5,512.32",
+                "name": "D CAE 89/22",
+                "objetivo_contrato": "Contratación de la explotación de la peluquería del Centro de Participación Activa para personas mayores \"Miraflores\" de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "D BPAT 22/21",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Enajenación de vivienda letra B, planta primera, portal 8, edificio 2, del Conjunto Residencial \"Jardines del Príncipe\" sito en Avda. Jaime de Mora y Aragón, 16 de Marbella anotado en el Inventario de Bienes Municipales con el numero 1.628, naturaleza patrimonial.",
-            "status": "Resuelta",
-            "importe": "448,654.88",
-            "fecha": "15/07/2022"
+                "fecha": "15/07/2022",
+                "importe": "448,654.88",
+                "name": "D BPAT 22/21",
+                "objetivo_contrato": "Enajenación de vivienda letra B, planta primera, portal 8, edificio 2, del Conjunto Residencial \"Jardines del Príncipe\" sito en Avda. Jaime de Mora y Aragón, 16 de Marbella anotado en el Inventario de Bienes Municipales con el numero 1.628, naturaleza patrimonial.",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
         },
         {
-            "name": "CAE 97/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación de la Explotación de la Peluquería del Centro de Participación Activa para Personas Mayores \"Los Paisajes\" de Marbella",
-            "status": "Resuelta",
-            "importe": "5,512.32",
-            "fecha": "17/02/2022"
+                "fecha": "17/02/2022",
+                "importe": "5,512.32",
+                "name": "CAE 97/22",
+                "objetivo_contrato": "Contratación de la Explotación de la Peluquería del Centro de Participación Activa para Personas Mayores \"Los Paisajes\" de Marbella",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "D SE 29/22 LOTE 1",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio de Revisiones Periódicas y Mantenimiento Preventivo por lotes de las Superestructuras de los Vehículos Autoescala E2 y E3 de la Marca MAGIRUS-DEUTZ (Lote 1) y Autoescalera E4 de la Marca METZ (Lote 2)",
-            "status": "Resuelta",
-            "importe": "39,600.00",
-            "fecha": "23/03/2022"
+                "fecha": "23/03/2022",
+                "importe": "39,600.00",
+                "name": "D SE 29/22 LOTE 1",
+                "objetivo_contrato": "Contratación del Servicio de Revisiones Periódicas y Mantenimiento Preventivo por lotes de las Superestructuras de los Vehículos Autoescala E2 y E3 de la Marca MAGIRUS-DEUTZ (Lote 1) y Autoescalera E4 de la Marca METZ (Lote 2)",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 79/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de heno y paja para los caballos del escuadrón de caballería de la Policía Local",
-            "status": "Resuelta",
-            "importe": "20,000.00",
-            "fecha": "17/05/2022"
+                "fecha": "17/05/2022",
+                "importe": "20,000.00",
+                "name": "SU 79/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de heno y paja para los caballos del escuadrón de caballería de la Policía Local",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 63/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de apertura de la biblioteca publica de San Pedro Alcantara.",
-            "status": "Evaluación",
-            "importe": "9,927.39",
-            "fecha": "25/01/2022"
+                "fecha": "25/01/2022",
+                "importe": "9,927.39",
+                "name": "SE 63/22",
+                "objetivo_contrato": "Servicio de apertura de la biblioteca publica de San Pedro Alcantara.",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "CP 56/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del Patrocinio para la Promoción de la Ciudad Mediante la Difusión de la Imagen del Logo \"Marca Marbella Junior\" a través de los Equipos de Cantera del Marbella Rugby Club en las competiciones Deportivas Federadas en las que participen durante el periodo comprendido entre los años 2022-2023",
-            "status": "Resuelta",
-            "importe": "17,035.12",
-            "fecha": "11/03/2022"
+                "fecha": "11/03/2022",
+                "importe": "17,035.12",
+                "name": "CP 56/22",
+                "objetivo_contrato": "Contratación del Patrocinio para la Promoción de la Ciudad Mediante la Difusión de la Imagen del Logo \"Marca Marbella Junior\" a través de los Equipos de Cantera del Marbella Rugby Club en las competiciones Deportivas Federadas en las que participen durante el periodo comprendido entre los años 2022-2023",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 46/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio para la implementación de la agenda 2030: ODS por la igualdad entre los géneros, el empoderamiento de las mujeres y niñas y los derechos de las personas LGTBIQ+ para la Delegación de Igualdad y Diversidad del Ecxmo. Ayuntamiento de Marbella.",
-            "status": "Anulada",
-            "importe": "58,544.83"
+                "fecha": "01/01/0001",
+                "importe": "58,544.83",
+                "name": "SE 46/22",
+                "objetivo_contrato": "Servicio para la implementación de la agenda 2030: ODS por la igualdad entre los géneros, el empoderamiento de las mujeres y niñas y los derechos de las personas LGTBIQ+ para la Delegación de Igualdad y Diversidad del Ecxmo. Ayuntamiento de Marbella.",
+                "status": "Anulada",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 28/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de uniformidad para el personal adscrito a los servicios de limpieza de dependencias municipales y limpieza de centros educativos del Ayuntamiento de Marbella durante los años 2022 Y 2023.",
-            "status": "Resuelta",
-            "importe": "31,404.96",
-            "fecha": "11/05/2022"
+                "fecha": "11/05/2022",
+                "importe": "31,404.96",
+                "name": "SU 28/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de uniformidad para el personal adscrito a los servicios de limpieza de dependencias municipales y limpieza de centros educativos del Ayuntamiento de Marbella durante los años 2022 Y 2023.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SU 87/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por lotes de elementos accesorios necesarios para la organización y producción de los actos de entrega de las medallas de la ciudad, hijos/as adoptivos/as y predilectos/as de la ciudad de Marbella y de insignias a ciudadanos honorarios.",
-            "status": "Resuelta",
-            "importe": "8,182.54",
-            "fecha": "23/03/2022"
+                "fecha": "23/03/2022",
+                "importe": "8,182.54",
+                "name": "SU 87/22",
+                "objetivo_contrato": "Suministro por lotes de elementos accesorios necesarios para la organización y producción de los actos de entrega de las medallas de la ciudad, hijos/as adoptivos/as y predilectos/as de la ciudad de Marbella y de insignias a ciudadanos honorarios.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "CP 61/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Servicio de gestión, coordinación y producción del festival MARPOETICA 2022.",
-            "status": "Resuelta",
-            "importe": "66,115.70",
-            "fecha": "23/03/2022"
+                "fecha": "23/03/2022",
+                "importe": "66,115.70",
+                "name": "CP 61/22",
+                "objetivo_contrato": "Servicio de gestión, coordinación y producción del festival MARPOETICA 2022.",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 162/21",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio de Mantenimiento del Sistema CIGES que comprende el Gestor de Colas y Cita Previa del Ayuntamiento de Marbella",
-            "status": "Evaluación",
-            "importe": "22,356.00",
-            "fecha": "13/01/2022"
+                "fecha": "13/01/2022",
+                "importe": "22,356.00",
+                "name": "SE 162/21",
+                "objetivo_contrato": "Contratación del Servicio de Mantenimiento del Sistema CIGES que comprende el Gestor de Colas y Cita Previa del Ayuntamiento de Marbella",
+                "status": "Evaluación",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 45/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de tala y poda de arboles y palmeras para el Excmo. Ayuntamiento de Marbella.",
-            "status": "Resuelta",
-            "importe": "1,785,119.00",
-            "fecha": "23/08/2022"
+                "fecha": "23/08/2022",
+                "importe": "1,785,119.00",
+                "name": "SE 45/22",
+                "objetivo_contrato": "Servicio de tala y poda de arboles y palmeras para el Excmo. Ayuntamiento de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 73/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de bolsas para recogida de restos vegetales.",
-            "status": "Resuelta",
-            "importe": "9,333.00",
-            "fecha": "08/06/2022"
+                "fecha": "08/06/2022",
+                "importe": "9,333.00",
+                "name": "SU 73/22",
+                "objetivo_contrato": "Suministro de bolsas para recogida de restos vegetales.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 54/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio para la Impartición y Desarrollo de los Programas de Actividades Físico-Deportivas para Adultos y Mayores, Programa de Iniciación Deportiva (Escuelas Deportivas Municipales), Juegos Deportivos Escolares y Programas Deportivos de Verano del Excmo. Ayuntamiento de Marbella, periodo 2022-2026",
-            "status": "Adjudicada",
-            "importe": "1,017,029.75",
-            "fecha": "14/07/2022"
+                "fecha": "14/07/2022",
+                "importe": "1,017,029.75",
+                "name": "SE 54/22",
+                "objetivo_contrato": "Contratación del Servicio para la Impartición y Desarrollo de los Programas de Actividades Físico-Deportivas para Adultos y Mayores, Programa de Iniciación Deportiva (Escuelas Deportivas Municipales), Juegos Deportivos Escolares y Programas Deportivos de Verano del Excmo. Ayuntamiento de Marbella, periodo 2022-2026",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 31/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio consistente en la explotación, seguimiento y control de las estaciones depuradoras de aguas residuales del centro logístico del Ayuntamiento de Marbella, sito en carretera de Ojén (A-355), T.M. Marbella.",
-            "status": "Resuelta",
-            "importe": "8,226.00",
-            "fecha": "29/06/2022"
+                "fecha": "29/06/2022",
+                "importe": "8,226.00",
+                "name": "SE 31/22",
+                "objetivo_contrato": "Servicio consistente en la explotación, seguimiento y control de las estaciones depuradoras de aguas residuales del centro logístico del Ayuntamiento de Marbella, sito en carretera de Ojén (A-355), T.M. Marbella.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 20/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de material diverso de pintura para los servicios operativos de San Pedro Alcántara.",
-            "status": "Resuelta",
-            "importe": "12,396.69",
-            "fecha": "06/04/2022"
+                "fecha": "06/04/2022",
+                "importe": "12,396.69",
+                "name": "SU 20/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de material diverso de pintura para los servicios operativos de San Pedro Alcántara.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SU 44/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de vestuario para el Personal dependiente del Área de Organización y Conserjería de distintos Servicios y Dependencias Municipales del Excmo. Ayuntamiento de Marbella",
-            "status": "Resuelta",
-            "importe": "74,379.00",
-            "fecha": "21/06/2022"
+                "fecha": "21/06/2022",
+                "importe": "74,379.00",
+                "name": "SU 44/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de vestuario para el Personal dependiente del Área de Organización y Conserjería de distintos Servicios y Dependencias Municipales del Excmo. Ayuntamiento de Marbella",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "SU 295/21",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de mobiliario para las playas del TM de Marbella y San Pedro Alcántara tras el temporal de levante acaecido el 19 de noviembre de 2021.",
-            "status": "Adjudicada",
-            "importe": "148,014.57",
-            "fecha": "16/12/2021"
+                "fecha": "16/12/2021",
+                "importe": "148,014.57",
+                "name": "SU 295/21",
+                "objetivo_contrato": "Suministro de mobiliario para las playas del TM de Marbella y San Pedro Alcántara tras el temporal de levante acaecido el 19 de noviembre de 2021.",
+                "status": "Adjudicada",
+                "tipo": "Suministros"
         },
         {
-            "name": "SE 297/21",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de electricidad y fontanería urgente para los elementos de playa afectados en las playas del TM de Marbella y San Pedro Alcántara tras el temporal de levante acaecido e 19 de noviembre de 2021",
-            "status": "Adjudicada",
-            "importe": "6,000.00",
-            "fecha": "16/12/2021"
+                "fecha": "16/12/2021",
+                "importe": "6,000.00",
+                "name": "SE 297/21",
+                "objetivo_contrato": "Servicio de electricidad y fontanería urgente para los elementos de playa afectados en las playas del TM de Marbella y San Pedro Alcántara tras el temporal de levante acaecido e 19 de noviembre de 2021",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 296/21",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Alquiler de maquinaria para las playas del TM de Marbella y San Pedro Alcántara tras el temporal de levante acaecido el 19 de noviembre de 2021 en ejecución del Decreto de emergencia de fecha 29 de noviembre.",
-            "status": "Adjudicada",
-            "importe": "37,070.00",
-            "fecha": "16/12/2021"
+                "fecha": "16/12/2021",
+                "importe": "37,070.00",
+                "name": "SE 296/21",
+                "objetivo_contrato": "Alquiler de maquinaria para las playas del TM de Marbella y San Pedro Alcántara tras el temporal de levante acaecido el 19 de noviembre de 2021 en ejecución del Decreto de emergencia de fecha 29 de noviembre.",
+                "status": "Adjudicada",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 92/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio por cuenta abierta de interpretes para los extranjeros detenidos por la Policía Local de Marbella durante los años 2022, 2023, 2024 Y 2025.",
-            "status": "Resuelta",
-            "importe": "26,446.28",
-            "fecha": "28/03/2022"
+                "fecha": "28/03/2022",
+                "importe": "26,446.28",
+                "name": "SE 92/22",
+                "objetivo_contrato": "Servicio por cuenta abierta de interpretes para los extranjeros detenidos por la Policía Local de Marbella durante los años 2022, 2023, 2024 Y 2025.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SE 291/21",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de mantenimiento correctivo de las áreas de juegos infantiles para el Excmo. Ayuntamiento de Marbella",
-            "status": "Resuelta",
-            "importe": "109,000.06",
-            "fecha": "14/12/2021"
+                "fecha": "14/12/2021",
+                "importe": "109,000.06",
+                "name": "SE 291/21",
+                "objetivo_contrato": "Servicio de mantenimiento correctivo de las áreas de juegos infantiles para el Excmo. Ayuntamiento de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "SU 10/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta de raciones alimenticias para los detenidos del Arresto Municipal durante los años 2022, 2023, 2024 y 2025.",
-            "status": "Resuelta",
-            "importe": "27,272.73",
-            "fecha": "23/03/2022"
+                "fecha": "23/03/2022",
+                "importe": "27,272.73",
+                "name": "SU 10/22",
+                "objetivo_contrato": "Suministro por cuenta abierta de raciones alimenticias para los detenidos del Arresto Municipal durante los años 2022, 2023, 2024 y 2025.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         },
         {
-            "name": "CP 60/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del Patrocinio Publicitario para la Promoción de la Ciudad de Marbella mediante la difusión de la Imagen del Logo Marca \"Marbella\" con los Equipos de Competición de la Federación Andaluza de Gimnasia",
-            "status": "Resuelta",
-            "importe": "127,685.96",
-            "fecha": "10/03/2022"
+                "fecha": "10/03/2022",
+                "importe": "127,685.96",
+                "name": "CP 60/22",
+                "objetivo_contrato": "Contratación del Patrocinio Publicitario para la Promoción de la Ciudad de Marbella mediante la difusión de la Imagen del Logo Marca \"Marbella\" con los Equipos de Competición de la Federación Andaluza de Gimnasia",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "SE 48/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del Servicio para la obtención de la Certificación para Marbella como mejor Destino Europeo año 2022 por la Red Eden (European Destinations of Excellence) para difundir la Imagen de Turismo de Marbella",
-            "status": "Resuelta",
-            "importe": "24,980.00",
-            "fecha": "22/03/2022"
+                "fecha": "22/03/2022",
+                "importe": "24,980.00",
+                "name": "SE 48/22",
+                "objetivo_contrato": "Contratación del Servicio para la obtención de la Certificación para Marbella como mejor Destino Europeo año 2022 por la Red Eden (European Destinations of Excellence) para difundir la Imagen de Turismo de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
         },
         {
-            "name": "CAE 94/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación de la Explotación de la Peluquería del Centro de Participación Activa para Personas Mayores \"Nueva Andalucía\" de Marbella",
-            "status": "Resuelta",
-            "importe": "5,132.40",
-            "fecha": "14/01/2022"
+                "fecha": "14/01/2022",
+                "importe": "5,132.40",
+                "name": "CAE 94/22",
+                "objetivo_contrato": "Contratación de la Explotación de la Peluquería del Centro de Participación Activa para Personas Mayores \"Nueva Andalucía\" de Marbella",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
         },
         {
-            "name": "CP 65/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del patrocinio publicitario para la celebración en Marbella del Clinic International de Baloncesto \"Fundación Cesare Scariolo\" para los años 2022 Y 2023",
-            "status": "Resuelta",
-            "importe": "49,586.78",
-            "fecha": "22/03/2022"
+                "fecha": "22/03/2022",
+                "importe": "49,586.78",
+                "name": "CP 65/22",
+                "objetivo_contrato": "Contratación del patrocinio publicitario para la celebración en Marbella del Clinic International de Baloncesto \"Fundación Cesare Scariolo\" para los años 2022 Y 2023",
+                "status": "Resuelta",
+                "tipo": "Privado"
         },
         {
-            "name": "CP 43/22",
-            "tipo": "Privado",
-            "objetivo_contrato": "Contratación del patrocinio para la promoción de la ciudad mediante la difusión de la imagen del logo \"Marca Marbella\" a través del equipo senior del Club Deportivo Futbol Playa Marbella en las competiciones deportivas federadas en las que participe durante el periodo comprendido entre los años 2022-2023.",
-            "status": "Resuelta",
-            "importe": "14,927.69",
-            "fecha": "22/03/2022"
-        },
-        {
-            "name": "D SU 266/21 LOTE 3",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del suministro por cuenta abierta de empresas de material de ferretería, pintura y maderas para los servicios operativos de la Delegación Municipal de Fiestas del Excmo. Ayuntamiento de Marbella. Lote 3: Suministro de material de maderas para Marbella, Nueva Andalucía y Las Chapas.",
-            "status": "Resuelta",
-            "importe": "36,900.00",
-            "fecha": "17/02/2022"
-        },
-        {
-            "name": "SE 35/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Contratación del servicio por cuenta abierta de Sanidad Vegetal para el Excmo. Ayuntamiento de Marbella.",
-            "status": "Resuelta",
-            "importe": "276,859.46",
-            "fecha": "27/06/2022"
-        },
-        {
-            "name": "CAE 89/22",
-            "tipo": "Administrativo especial",
-            "objetivo_contrato": "Contratación de la explotación de la peluquería del Centro de Participación Activa para personas mayores \"Miraflores\" de Marbella.",
-            "status": "Resuelta",
-            "importe": "2,756.16",
-            "fecha": "14/01/2022"
-        },
-        {
-            "name": "SU 21/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación del suministro por cuenta abierta de material de ferretería para los servicios operativos de San Pedro Alcántara",
-            "status": "Resuelta",
-            "importe": "4,958.68",
-            "fecha": "16/05/2022"
-        },
-        {
-            "name": "D SU 277/21",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro de caramelos y bolsas de golosinas variadas para la Navidad y Reyes 2021/22 en San Pedro Alcántara",
-            "status": "Resuelta",
-            "importe": "9,000.00",
-            "fecha": "28/12/2021"
-        },
-        {
-            "name": "SE 50/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio dirigido a la campaña de sensibilización contra las violencias machistas durante las Feria y Fiestas del municipio de Marbella",
-            "status": "Resuelta",
-            "importe": "9,155.00",
-            "fecha": "06/04/2022"
-        },
-        {
-            "name": "BPAT 29/21",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Enajenación de la parcela de titularidad R 8.1.B, situada en PERI-AN-1 \"Guadaiza\", anotado en el Inventario de Bienes con el nº 678 del Epígrafe de inmuebles urbanos, con naturaleza patrimonial- incluida en el patrimonio municipal del suelo (PMS).",
-            "status": "Resuelta",
-            "importe": "566,403.10",
-            "fecha": "18/07/2022"
-        },
-        {
-            "name": "SU 290/21",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Contratación de los elementos necesarios para la Celebración del Espacio Mágico de Navidad y su Organización en Marbella Centro, Plaza del Mercado Municipal y Paseo de la Alameda con motivo de la Navidad/Reyes Marbella 2021/2022",
-            "status": "Resuelta",
-            "importe": "59,564.30",
-            "fecha": "28/12/2021"
-        },
-        {
-            "name": "BPAT 23/21",
-            "tipo": "Patrimonial",
-            "objetivo_contrato": "Concesión demanial a instancia de parte para la construcción e instalación, conservación y explotación de una noria panorámica permanente en dominio publico local situado en el sistema general de áreas libres SG-AL-2 \"Parque central de San Pedro Alcántara T.M. Marbella (Málaga)",
-            "status": "Resuelta",
-            "importe": "283,800.00",
-            "fecha": "11/02/2022"
-        },
-        {
-            "name": "SE 55/22",
-            "tipo": "Servicios",
-            "objetivo_contrato": "Servicio de asistencia y consultoría para la redacción del plan municipal de vivienda y suelo del municipio de Marbella.",
-            "status": "Resuelta",
-            "importe": "66,221.39",
-            "fecha": "22/03/2022"
-        },
-        {
-            "name": "SU 72/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro, en régimen de arrendamiento, de tres vehículos de carga lateral y un vehículo de carga trasera para el servicio de recogida de residuos solidos urbanos de la Delegación de Limpieza",
-            "status": "Resuelta",
-            "importe": "250,800.00",
-            "fecha": "11/05/2022"
-        },
-        {
-            "name": "SU 52/22",
-            "tipo": "Suministros",
-            "objetivo_contrato": "Suministro por cuenta abierta, en régimen de arrendamiento, de camión sin conductor con cesta telescópica de dieciocho (18) metros para el Servicio eléctrico de la Delegación de Obras e Infraestructuras.",
-            "status": "Resuelta",
-            "importe": "21,600.00",
-            "fecha": "27/04/2022"
+                "fecha": "22/03/2022",
+                "importe": "14,927.69",
+                "name": "CP 43/22",
+                "objetivo_contrato": "Contratación del patrocinio para la promoción de la ciudad mediante la difusión de la imagen del logo \"Marca Marbella\" a través del equipo senior del Club Deportivo Futbol Playa Marbella en las competiciones deportivas federadas en las que participe durante el periodo comprendido entre los años 2022-2023.",
+                "status": "Resuelta",
+                "tipo": "Privado"
+        },
+        {
+                "fecha": "17/02/2022",
+                "importe": "36,900.00",
+                "name": "D SU 266/21 LOTE 3",
+                "objetivo_contrato": "Contratación del suministro por cuenta abierta de empresas de material de ferretería, pintura y maderas para los servicios operativos de la Delegación Municipal de Fiestas del Excmo. Ayuntamiento de Marbella. Lote 3: Suministro de material de maderas para Marbella, Nueva Andalucía y Las Chapas.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
+        },
+        {
+                "fecha": "27/06/2022",
+                "importe": "276,859.46",
+                "name": "SE 35/22",
+                "objetivo_contrato": "Contratación del servicio por cuenta abierta de Sanidad Vegetal para el Excmo. Ayuntamiento de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "14/01/2022",
+                "importe": "2,756.16",
+                "name": "CAE 89/22",
+                "objetivo_contrato": "Contratación de la explotación de la peluquería del Centro de Participación Activa para personas mayores \"Miraflores\" de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Administrativo especial"
+        },
+        {
+                "fecha": "16/05/2022",
+                "importe": "4,958.68",
+                "name": "SU 21/22",
+                "objetivo_contrato": "Contratación del suministro por cuenta abierta de material de ferretería para los servicios operativos de San Pedro Alcántara",
+                "status": "Resuelta",
+                "tipo": "Suministros"
+        },
+        {
+                "fecha": "28/12/2021",
+                "importe": "9,000.00",
+                "name": "D SU 277/21",
+                "objetivo_contrato": "Suministro de caramelos y bolsas de golosinas variadas para la Navidad y Reyes 2021/22 en San Pedro Alcántara",
+                "status": "Resuelta",
+                "tipo": "Suministros"
+        },
+        {
+                "fecha": "06/04/2022",
+                "importe": "9,155.00",
+                "name": "SE 50/22",
+                "objetivo_contrato": "Servicio dirigido a la campaña de sensibilización contra las violencias machistas durante las Feria y Fiestas del municipio de Marbella",
+                "status": "Resuelta",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "18/07/2022",
+                "importe": "566,403.10",
+                "name": "BPAT 29/21",
+                "objetivo_contrato": "Enajenación de la parcela de titularidad R 8.1.B, situada en PERI-AN-1 \"Guadaiza\", anotado en el Inventario de Bienes con el nº 678 del Epígrafe de inmuebles urbanos, con naturaleza patrimonial- incluida en el patrimonio municipal del suelo (PMS).",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
+        },
+        {
+                "fecha": "28/12/2021",
+                "importe": "59,564.30",
+                "name": "SU 290/21",
+                "objetivo_contrato": "Contratación de los elementos necesarios para la Celebración del Espacio Mágico de Navidad y su Organización en Marbella Centro, Plaza del Mercado Municipal y Paseo de la Alameda con motivo de la Navidad/Reyes Marbella 2021/2022",
+                "status": "Resuelta",
+                "tipo": "Suministros"
+        },
+        {
+                "fecha": "11/02/2022",
+                "importe": "283,800.00",
+                "name": "BPAT 23/21",
+                "objetivo_contrato": "Concesión demanial a instancia de parte para la construcción e instalación, conservación y explotación de una noria panorámica permanente en dominio publico local situado en el sistema general de áreas libres SG-AL-2 \"Parque central de San Pedro Alcántara T.M. Marbella (Málaga)",
+                "status": "Resuelta",
+                "tipo": "Patrimonial"
+        },
+        {
+                "fecha": "22/03/2022",
+                "importe": "66,221.39",
+                "name": "SE 55/22",
+                "objetivo_contrato": "Servicio de asistencia y consultoría para la redacción del plan municipal de vivienda y suelo del municipio de Marbella.",
+                "status": "Resuelta",
+                "tipo": "Servicios"
+        },
+        {
+                "fecha": "11/05/2022",
+                "importe": "250,800.00",
+                "name": "SU 72/22",
+                "objetivo_contrato": "Suministro, en régimen de arrendamiento, de tres vehículos de carga lateral y un vehículo de carga trasera para el servicio de recogida de residuos solidos urbanos de la Delegación de Limpieza",
+                "status": "Resuelta",
+                "tipo": "Suministros"
+        },
+        {
+                "fecha": "27/04/2022",
+                "importe": "21,600.00",
+                "name": "SU 52/22",
+                "objetivo_contrato": "Suministro por cuenta abierta, en régimen de arrendamiento, de camión sin conductor con cesta telescópica de dieciocho (18) metros para el Servicio eléctrico de la Delegación de Obras e Infraestructuras.",
+                "status": "Resuelta",
+                "tipo": "Suministros"
         }
-    ]
+]
