@@ -14,8 +14,10 @@ export default function Home() {
   return (
     <>
       <Hero />
-      <Chart />
-      <DataTable />
+      <div className="flex flex-col">
+        <Chart />
+        <DataTable />
+      </div>
     </>
   );
 }

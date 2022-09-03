@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+canvas {
+  margin: 0 auto;
+}
+
 .sort-button {
   background-color: transparent;
   border: none;
